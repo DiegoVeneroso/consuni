@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "20327598872",
+    "project_id": "consuni-75d57",
+    "storage_bucket": "consuni-75d57.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:20327598872:android:dfb24f35e33fdcfd38ac6d",
+        "android_client_info": {
+          "package_name": "ga.consuni.consuni_mobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "20327598872-7sf13tsm1fctkgp715tos7mpeecqpn8s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD09PUMlCiYUbaATjpuHksy3aFOL4Vf_iI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "20327598872-7sf13tsm1fctkgp715tos7mpeecqpn8s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

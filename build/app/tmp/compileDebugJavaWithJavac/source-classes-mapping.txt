@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+ga/consuni/consuni_mobile/BuildConfig.java
+ ga.consuni.consuni_mobile.BuildConfig

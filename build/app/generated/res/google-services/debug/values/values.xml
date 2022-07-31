@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">20327598872-7sf13tsm1fctkgp715tos7mpeecqpn8s.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">20327598872</string>
+    <string name="google_api_key" translatable="false">AIzaSyD09PUMlCiYUbaATjpuHksy3aFOL4Vf_iI</string>
+    <string name="google_app_id" translatable="false">1:20327598872:android:dfb24f35e33fdcfd38ac6d</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyD09PUMlCiYUbaATjpuHksy3aFOL4Vf_iI</string>
+    <string name="google_storage_bucket" translatable="false">consuni-75d57.appspot.com</string>
+    <string name="project_id" translatable="false">consuni-75d57</string>
+</resources>
