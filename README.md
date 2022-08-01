@@ -1,4 +1,4 @@
-# consuni_mobile
+# consuni
 
 A new Flutter project.
 
