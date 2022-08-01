@@ -1,13 +1,11 @@
-import 'package:consuni_mobile/app/core/constants/constants.dart';
-import 'package:consuni_mobile/app/core/helpers/notification.dart';
-import 'package:consuni_mobile/app/core/ui/widgets/custom_drawer.dart';
-import 'package:consuni_mobile/app/modules/home/home_controller.dart';
-import 'package:consuni_mobile/app/modules/home/widgets/item_tile.dart';
+import 'package:consuni/app/core/helpers/notification.dart';
+import 'package:consuni/app/core/ui/widgets/custom_drawer.dart';
+import 'package:consuni/app/modules/home/home_controller.dart';
+import 'package:consuni/app/modules/home/widgets/item_tile.dart';
 import 'package:easy_search_bar/easy_search_bar.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_local_notifications/flutter_local_notifications.dart';
 import 'package:get/get.dart';
-import 'package:get_storage/get_storage.dart';
 
 class HomePage extends StatefulWidget {
   const HomePage({Key? key}) : super(key: key);

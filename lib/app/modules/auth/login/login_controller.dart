@@ -1,12 +1,11 @@
 import 'dart:convert';
 import 'dart:developer';
 
-import 'package:consuni_mobile/app/core/constants/constants.dart';
-import 'package:consuni_mobile/app/core/exceptions/user_notfound_exception.dart';
-import 'package:consuni_mobile/app/core/mixins/loader_mixin.dart';
-import 'package:consuni_mobile/app/core/mixins/messages_mixin.dart';
-import 'package:consuni_mobile/app/repositories/auth/auth_repository.dart';
-import 'package:consuni_mobile/app/repositories/auth/auth_repository_impl.dart';
+import 'package:consuni/app/core/constants/constants.dart';
+import 'package:consuni/app/core/exceptions/user_notfound_exception.dart';
+import 'package:consuni/app/core/mixins/loader_mixin.dart';
+import 'package:consuni/app/core/mixins/messages_mixin.dart';
+import 'package:consuni/app/repositories/auth/auth_repository_impl.dart';
 import 'package:get/get.dart';
 import 'package:get_storage/get_storage.dart';
 

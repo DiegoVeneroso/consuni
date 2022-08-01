@@ -1,8 +1,8 @@
-import 'package:consuni_mobile/app/modules/home/home_controller.dart';
+import 'package:consuni/app/modules/home/home_controller.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import 'package:consuni_mobile/app/core/services/auth_services.dart';
-import 'package:consuni_mobile/app/models/userDrawer_model.dart';
+import 'package:consuni/app/core/services/auth_services.dart';
+import 'package:consuni/app/models/userDrawer_model.dart';
 
 class CustomDrawer extends StatelessWidget {
   HomeController homeController =

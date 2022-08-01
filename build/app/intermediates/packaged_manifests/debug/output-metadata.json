@@ -4,7 +4,7 @@
     "type": "PACKAGED_MANIFESTS",
     "kind": "Directory"
   },
-  "applicationId": "ga.consuni.consuni_mobile",
+  "applicationId": "ga.consuni.consuni",
   "variantName": "debug",
   "elements": [
     {

@@ -1,9 +1,9 @@
 import 'dart:developer';
-import 'package:consuni_mobile/app/core/constants/constants.dart';
-import 'package:consuni_mobile/app/core/rest_client/rest_client.dart';
-import 'package:consuni_mobile/app/core/services/auth_services.dart';
-import 'package:consuni_mobile/app/models/item_model.dart';
-import 'package:consuni_mobile/app/models/userDrawer_model.dart';
+import 'package:consuni/app/core/constants/constants.dart';
+import 'package:consuni/app/core/rest_client/rest_client.dart';
+import 'package:consuni/app/core/services/auth_services.dart';
+import 'package:consuni/app/models/item_model.dart';
+import 'package:consuni/app/models/userDrawer_model.dart';
 import 'package:get_storage/get_storage.dart';
 import './item_repository.dart';
 

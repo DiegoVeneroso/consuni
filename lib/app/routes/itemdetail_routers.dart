@@ -1,5 +1,5 @@
-import 'package:consuni_mobile/app/modules/item/item_detail/item_detail_bindings.dart';
-import 'package:consuni_mobile/app/modules/item/item_detail/item_detail_page.dart';
+import 'package:consuni/app/modules/item/item_detail/item_detail_bindings.dart';
+import 'package:consuni/app/modules/item/item_detail/item_detail_page.dart';
 import 'package:get/get.dart';
 
 class ItemDetailRouters {

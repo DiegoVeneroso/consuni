@@ -1,8 +1,8 @@
 import 'dart:developer';
 
-import 'package:consuni_mobile/app/core/mixins/loader_mixin.dart';
-import 'package:consuni_mobile/app/core/mixins/messages_mixin.dart';
-import 'package:consuni_mobile/app/repositories/auth/auth_repository_impl.dart';
+import 'package:consuni/app/core/mixins/loader_mixin.dart';
+import 'package:consuni/app/core/mixins/messages_mixin.dart';
+import 'package:consuni/app/repositories/auth/auth_repository_impl.dart';
 import 'package:get/get.dart';
 
 class PasswordRenewController extends GetxController

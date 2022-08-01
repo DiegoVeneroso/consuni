@@ -5,10 +5,10 @@
 
 // @dart = 2.16
 
-// When `package:consuni_mobile/main.dart` defines `main`, that definition is shadowed by the definition below.
-export 'package:consuni_mobile/main.dart';
+// When `package:consuni/main.dart` defines `main`, that definition is shadowed by the definition below.
+export 'package:consuni/main.dart';
 
-import 'package:consuni_mobile/main.dart' as entrypoint;
+import 'package:consuni/main.dart' as entrypoint;
 import 'dart:io'; // flutter_ignore: dart_io_import.
 import 'package:path_provider_android/path_provider_android.dart';
 import 'package:url_launcher_android/url_launcher_android.dart';
@@ -24,127 +24,98 @@ import 'package:url_launcher_windows/url_launcher_windows.dart';
 
 @pragma('vm:entry-point')
 class _PluginRegistrant {
-
   @pragma('vm:entry-point')
   static void register() {
     if (Platform.isAndroid) {
       try {
         PathProviderAndroid.registerWith();
       } catch (err) {
-        print(
-          '`path_provider_android` threw an error: $err. '
-          'The app may not function as expected until you remove this plugin from pubspec.yaml'
-        );
+        print('`path_provider_android` threw an error: $err. '
+            'The app may not function as expected until you remove this plugin from pubspec.yaml');
         rethrow;
       }
 
       try {
         UrlLauncherAndroid.registerWith();
       } catch (err) {
-        print(
-          '`url_launcher_android` threw an error: $err. '
-          'The app may not function as expected until you remove this plugin from pubspec.yaml'
-        );
+        print('`url_launcher_android` threw an error: $err. '
+            'The app may not function as expected until you remove this plugin from pubspec.yaml');
         rethrow;
       }
-
     } else if (Platform.isIOS) {
       try {
         ImagePickerIOS.registerWith();
       } catch (err) {
-        print(
-          '`image_picker_ios` threw an error: $err. '
-          'The app may not function as expected until you remove this plugin from pubspec.yaml'
-        );
+        print('`image_picker_ios` threw an error: $err. '
+            'The app may not function as expected until you remove this plugin from pubspec.yaml');
         rethrow;
       }
 
       try {
         PathProviderIOS.registerWith();
       } catch (err) {
-        print(
-          '`path_provider_ios` threw an error: $err. '
-          'The app may not function as expected until you remove this plugin from pubspec.yaml'
-        );
+        print('`path_provider_ios` threw an error: $err. '
+            'The app may not function as expected until you remove this plugin from pubspec.yaml');
         rethrow;
       }
 
       try {
         UrlLauncherIOS.registerWith();
       } catch (err) {
-        print(
-          '`url_launcher_ios` threw an error: $err. '
-          'The app may not function as expected until you remove this plugin from pubspec.yaml'
-        );
+        print('`url_launcher_ios` threw an error: $err. '
+            'The app may not function as expected until you remove this plugin from pubspec.yaml');
         rethrow;
       }
-
     } else if (Platform.isLinux) {
       try {
         PathProviderLinux.registerWith();
       } catch (err) {
-        print(
-          '`path_provider_linux` threw an error: $err. '
-          'The app may not function as expected until you remove this plugin from pubspec.yaml'
-        );
+        print('`path_provider_linux` threw an error: $err. '
+            'The app may not function as expected until you remove this plugin from pubspec.yaml');
         rethrow;
       }
 
       try {
         UrlLauncherLinux.registerWith();
       } catch (err) {
-        print(
-          '`url_launcher_linux` threw an error: $err. '
-          'The app may not function as expected until you remove this plugin from pubspec.yaml'
-        );
+        print('`url_launcher_linux` threw an error: $err. '
+            'The app may not function as expected until you remove this plugin from pubspec.yaml');
         rethrow;
       }
-
     } else if (Platform.isMacOS) {
       try {
         PathProviderMacOS.registerWith();
       } catch (err) {
-        print(
-          '`path_provider_macos` threw an error: $err. '
-          'The app may not function as expected until you remove this plugin from pubspec.yaml'
-        );
+        print('`path_provider_macos` threw an error: $err. '
+            'The app may not function as expected until you remove this plugin from pubspec.yaml');
         rethrow;
       }
 
       try {
         UrlLauncherMacOS.registerWith();
       } catch (err) {
-        print(
-          '`url_launcher_macos` threw an error: $err. '
-          'The app may not function as expected until you remove this plugin from pubspec.yaml'
-        );
+        print('`url_launcher_macos` threw an error: $err. '
+            'The app may not function as expected until you remove this plugin from pubspec.yaml');
         rethrow;
       }
-
     } else if (Platform.isWindows) {
       try {
         PathProviderWindows.registerWith();
       } catch (err) {
-        print(
-          '`path_provider_windows` threw an error: $err. '
-          'The app may not function as expected until you remove this plugin from pubspec.yaml'
-        );
+        print('`path_provider_windows` threw an error: $err. '
+            'The app may not function as expected until you remove this plugin from pubspec.yaml');
         rethrow;
       }
 
       try {
         UrlLauncherWindows.registerWith();
       } catch (err) {
-        print(
-          '`url_launcher_windows` threw an error: $err. '
-          'The app may not function as expected until you remove this plugin from pubspec.yaml'
-        );
+        print('`url_launcher_windows` threw an error: $err. '
+            'The app may not function as expected until you remove this plugin from pubspec.yaml');
         rethrow;
       }
-
     }
   }
-
 }
 
 typedef _UnaryFunction = dynamic Function(List<String> args);

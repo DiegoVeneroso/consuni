@@ -1,6 +1,6 @@
-import 'package:consuni_mobile/app/modules/auth/register/register_controller.dart';
-import 'package:consuni_mobile/app/repositories/auth/auth_repository.dart';
-import 'package:consuni_mobile/app/repositories/auth/auth_repository_impl.dart';
+import 'package:consuni/app/modules/auth/register/register_controller.dart';
+import 'package:consuni/app/repositories/auth/auth_repository.dart';
+import 'package:consuni/app/repositories/auth/auth_repository_impl.dart';
 import 'package:get/get.dart';
 
 class RegisterBindings implements Bindings {

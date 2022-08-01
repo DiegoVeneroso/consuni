@@ -1,8 +1,8 @@
-import 'package:consuni_mobile/app/core/ui/app_state.dart';
-import 'package:consuni_mobile/app/modules/auth/register/register_controller.dart';
-import 'package:consuni_mobile/app/modules/auth/register/steps/one_page.dart';
-import 'package:consuni_mobile/app/modules/auth/register/steps/three_page.dart';
-import 'package:consuni_mobile/app/modules/auth/register/steps/two_page.dart';
+import 'package:consuni/app/core/ui/app_state.dart';
+import 'package:consuni/app/modules/auth/register/register_controller.dart';
+import 'package:consuni/app/modules/auth/register/steps/one_page.dart';
+import 'package:consuni/app/modules/auth/register/steps/three_page.dart';
+import 'package:consuni/app/modules/auth/register/steps/two_page.dart';
 import 'package:flutter/material.dart';
 
 class RegisterPage extends StatefulWidget {

@@ -1,8 +1,8 @@
-import 'package:consuni_mobile/app/core/ui/widgets/custom_appbar.dart';
-import 'package:consuni_mobile/app/core/ui/widgets/custom_buttom.dart';
-import 'package:consuni_mobile/app/core/ui/widgets/custom_textformfield.dart';
-import 'package:consuni_mobile/app/models/view_models/register_view_model.dart';
-import 'package:consuni_mobile/app/modules/auth/register/register_controller.dart';
+import 'package:consuni/app/core/ui/widgets/custom_appbar.dart';
+import 'package:consuni/app/core/ui/widgets/custom_buttom.dart';
+import 'package:consuni/app/core/ui/widgets/custom_textformfield.dart';
+import 'package:consuni/app/models/view_models/register_view_model.dart';
+import 'package:consuni/app/modules/auth/register/register_controller.dart';
 import 'package:dropdown_button2/dropdown_button2.dart';
 import 'package:firebase_messaging/firebase_messaging.dart';
 import 'package:flutter/material.dart';
@@ -138,6 +138,7 @@ class _ThreePageState extends State<ThreePage> {
                       if (value == null) {
                         return 'Tipo é obrigatório';
                       }
+                      return null;
                     },
                     onChanged: (value) {
                       selectedValue = value.toString();

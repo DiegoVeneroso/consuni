@@ -1,16 +1,12 @@
 import 'dart:convert';
 import 'dart:developer';
-import 'dart:ffi';
 
-import 'package:consuni_mobile/app/core/constants/constants.dart';
-import 'package:consuni_mobile/app/core/exceptions/user_notfound_exception.dart';
-import 'package:consuni_mobile/app/core/rest_client/rest_client.dart';
-import 'package:consuni_mobile/app/core/services/auth_services.dart';
-import 'package:consuni_mobile/app/models/userDrawer_model.dart';
-import 'package:consuni_mobile/app/models/user_model.dart';
-import 'package:consuni_mobile/app/models/view_models/register_view_model.dart';
-import 'package:firebase_messaging/firebase_messaging.dart';
-import 'package:flutter/material.dart';
+import 'package:consuni/app/core/constants/constants.dart';
+import 'package:consuni/app/core/exceptions/user_notfound_exception.dart';
+import 'package:consuni/app/core/rest_client/rest_client.dart';
+import 'package:consuni/app/core/services/auth_services.dart';
+import 'package:consuni/app/models/userDrawer_model.dart';
+import 'package:consuni/app/models/view_models/register_view_model.dart';
 import 'package:get_storage/get_storage.dart';
 
 import './auth_repository.dart';

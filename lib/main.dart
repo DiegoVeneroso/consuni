@@ -1,16 +1,16 @@
 import 'dart:convert';
 import 'dart:io';
 
-import 'package:consuni_mobile/app/core/bindings/application_bindings.dart';
-import 'package:consuni_mobile/app/core/ui/app_ui.dart';
-import 'package:consuni_mobile/app/routes/chat_room_routers.dart';
-import 'package:consuni_mobile/app/routes/chat_routers.dart';
-import 'package:consuni_mobile/app/routes/item/additem_routers.dart';
-import 'package:consuni_mobile/app/routes/auth_routers.dart';
-import 'package:consuni_mobile/app/routes/edititem_routers.dart';
-import 'package:consuni_mobile/app/routes/home_routers.dart';
-import 'package:consuni_mobile/app/routes/itemdetail_routers.dart';
-import 'package:consuni_mobile/app/routes/splash_routes.dart';
+import 'package:consuni/app/core/bindings/application_bindings.dart';
+import 'package:consuni/app/core/ui/app_ui.dart';
+import 'package:consuni/app/routes/chat_room_routers.dart';
+import 'package:consuni/app/routes/chat_routers.dart';
+import 'package:consuni/app/routes/item/additem_routers.dart';
+import 'package:consuni/app/routes/auth_routers.dart';
+import 'package:consuni/app/routes/edititem_routers.dart';
+import 'package:consuni/app/routes/home_routers.dart';
+import 'package:consuni/app/routes/itemdetail_routers.dart';
+import 'package:consuni/app/routes/splash_routes.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:get_storage/get_storage.dart';

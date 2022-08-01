@@ -1,5 +1,4 @@
-import 'package:consuni_mobile/app/repositories/item/item_repository.dart';
-import 'package:consuni_mobile/app/repositories/item/item_repository_impl.dart';
+import 'package:consuni/app/repositories/item/item_repository_impl.dart';
 import 'package:get/get.dart';
 import './add_item_controller.dart';
 

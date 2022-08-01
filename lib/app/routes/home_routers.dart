@@ -1,5 +1,5 @@
-import 'package:consuni_mobile/app/modules/home/home_bindings.dart';
-import 'package:consuni_mobile/app/modules/home/home_page.dart';
+import 'package:consuni/app/modules/home/home_bindings.dart';
+import 'package:consuni/app/modules/home/home_page.dart';
 import 'package:get/get.dart';
 
 class HomeRouters {
@@ -9,7 +9,7 @@ class HomeRouters {
     GetPage(
       name: '/home',
       binding: HomeBindings(),
-      page: () => HomePage(),
+      page: () => const HomePage(),
     ),
   ];
 }

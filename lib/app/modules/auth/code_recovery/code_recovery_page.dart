@@ -1,9 +1,9 @@
-import 'package:consuni_mobile/app/core/ui/app_state.dart';
-import 'package:consuni_mobile/app/core/ui/widgets/custom_appbar.dart';
-import 'package:consuni_mobile/app/core/ui/widgets/custom_buttom.dart';
-import 'package:consuni_mobile/app/core/ui/widgets/custom_textformfield.dart';
-import 'package:consuni_mobile/app/modules/auth/code_recovery/code_recovery_controller.dart';
-import 'package:consuni_mobile/app/modules/auth/password_recovery/password_recovery_controller.dart';
+import 'package:consuni/app/core/ui/app_state.dart';
+import 'package:consuni/app/core/ui/widgets/custom_appbar.dart';
+import 'package:consuni/app/core/ui/widgets/custom_buttom.dart';
+import 'package:consuni/app/core/ui/widgets/custom_textformfield.dart';
+import 'package:consuni/app/modules/auth/code_recovery/code_recovery_controller.dart';
+import 'package:consuni/app/modules/auth/password_recovery/password_recovery_controller.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:validatorless/validatorless.dart';
@@ -19,6 +19,7 @@ class _PasswordRecoveryPageState
     extends AppState<CodeRecoveryPage, CodeRecoveryController> {
   final _formKey = GlobalKey<FormState>();
   final _codeEC = TextEditingController();
+  @override
   CodeRecoveryController controller = Get.find();
 
   @override

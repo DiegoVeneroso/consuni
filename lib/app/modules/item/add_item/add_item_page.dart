@@ -1,12 +1,12 @@
 import 'dart:convert';
 import 'dart:io' as Io;
 import 'dart:io';
-import 'package:consuni_mobile/app/core/ui/app_state.dart';
-import 'package:consuni_mobile/app/core/ui/widgets/custom_appbar.dart';
-import 'package:consuni_mobile/app/core/ui/widgets/custom_buttom.dart';
-import 'package:consuni_mobile/app/core/ui/widgets/custom_textformfield.dart';
-import 'package:consuni_mobile/app/models/item_model.dart';
-import 'package:consuni_mobile/app/modules/item/add_item/add_item_controller.dart';
+import 'package:consuni/app/core/ui/app_state.dart';
+import 'package:consuni/app/core/ui/widgets/custom_appbar.dart';
+import 'package:consuni/app/core/ui/widgets/custom_buttom.dart';
+import 'package:consuni/app/core/ui/widgets/custom_textformfield.dart';
+import 'package:consuni/app/models/item_model.dart';
+import 'package:consuni/app/modules/item/add_item/add_item_controller.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:image_picker/image_picker.dart';

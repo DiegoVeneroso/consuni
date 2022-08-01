@@ -1,16 +1,16 @@
-import 'package:consuni_mobile/app/core/ui/widgets/custom_appbar.dart';
-import 'package:consuni_mobile/app/core/ui/widgets/custom_buttom.dart';
-import 'package:consuni_mobile/app/core/ui/widgets/custom_textformfield.dart';
-import 'package:consuni_mobile/app/models/view_models/register_view_model.dart';
-import 'package:consuni_mobile/app/modules/auth/register/register_controller.dart';
-import 'package:consuni_mobile/app/repositories/auth/auth_repository_impl.dart';
+import 'package:consuni/app/core/ui/widgets/custom_appbar.dart';
+import 'package:consuni/app/core/ui/widgets/custom_buttom.dart';
+import 'package:consuni/app/core/ui/widgets/custom_textformfield.dart';
+import 'package:consuni/app/models/view_models/register_view_model.dart';
+import 'package:consuni/app/modules/auth/register/register_controller.dart';
+import 'package:consuni/app/repositories/auth/auth_repository_impl.dart';
 import 'package:dropdown_button2/dropdown_button2.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 // import 'package:dropdown_button2/dropdown_button2.dart';
 
 class TwoPage extends StatefulWidget {
-  TwoPage({Key? key}) : super(key: key);
+  const TwoPage({Key? key}) : super(key: key);
 
   @override
   State<TwoPage> createState() => _TwoPageState();

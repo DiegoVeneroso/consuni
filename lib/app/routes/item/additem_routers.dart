@@ -1,5 +1,5 @@
-import 'package:consuni_mobile/app/modules/item/add_item/add_item_bindings.dart';
-import 'package:consuni_mobile/app/modules/item/add_item/add_item_page.dart';
+import 'package:consuni/app/modules/item/add_item/add_item_bindings.dart';
+import 'package:consuni/app/modules/item/add_item/add_item_page.dart';
 import 'package:get/get.dart';
 
 class AdditemRouters {
@@ -9,7 +9,7 @@ class AdditemRouters {
     GetPage(
       name: '/additem',
       binding: AddItemBindings(),
-      page: () => AddItemPage(),
+      page: () => const AddItemPage(),
     ),
   ];
 }

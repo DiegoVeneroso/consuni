@@ -1,6 +1,6 @@
 import 'package:awesome_icons/awesome_icons.dart';
-import 'package:consuni_mobile/app/models/item_model.dart';
-import 'package:consuni_mobile/app/modules/home/home_controller.dart';
+import 'package:consuni/app/models/item_model.dart';
+import 'package:consuni/app/modules/home/home_controller.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 

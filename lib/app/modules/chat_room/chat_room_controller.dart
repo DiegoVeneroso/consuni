@@ -1,4 +1,4 @@
-import 'package:consuni_mobile/app/models/message.dart';
+import 'package:consuni/app/models/message.dart';
 import 'package:get/get.dart';
 
 class ChatRoomController extends GetxController {

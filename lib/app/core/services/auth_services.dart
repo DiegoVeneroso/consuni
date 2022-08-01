@@ -1,10 +1,10 @@
 import 'dart:developer';
 
-import 'package:consuni_mobile/app/core/rest_client/rest_client.dart';
+import 'package:consuni/app/core/rest_client/rest_client.dart';
 import 'package:get/get.dart';
 import 'package:get_storage/get_storage.dart';
 
-import 'package:consuni_mobile/app/core/constants/constants.dart';
+import 'package:consuni/app/core/constants/constants.dart';
 
 class AuthServices extends GetxService {
   final _isLogged = RxnBool();

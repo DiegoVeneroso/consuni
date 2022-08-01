@@ -1,9 +1,5 @@
 import 'dart:convert';
 
-import 'package:consuni_mobile/app/repositories/auth/auth_repository.dart';
-import 'package:consuni_mobile/app/repositories/auth/auth_repository_impl.dart';
-import 'package:get/get.dart';
-
 class UserDrawerModel {
   final int id;
   final String name;

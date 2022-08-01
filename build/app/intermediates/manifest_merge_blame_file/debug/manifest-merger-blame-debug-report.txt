@@ -1,6 +1,6 @@
 1<?xml version="1.0" encoding="utf-8"?>
 2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
-3    package="ga.consuni.consuni_mobile"
+3    package="ga.consuni.consuni"
 4    android:versionCode="1"
 5    android:versionName="1.0.0" >
 6
@@ -12,122 +12,122 @@
 12         to allow setting breakpoints, to provide hot reload, etc.
 13    -->
 14    <uses-permission android:name="android.permission.INTERNET" />
-14-->/Users/diego/Desktop/app consuni/consuni/android/app/src/debug/AndroidManifest.xml:6:5-66
-14-->/Users/diego/Desktop/app consuni/consuni/android/app/src/debug/AndroidManifest.xml:6:22-64
+14-->/Users/diegoveneroso/consuni/android/app/src/debug/AndroidManifest.xml:6:5-66
+14-->/Users/diegoveneroso/consuni/android/app/src/debug/AndroidManifest.xml:6:22-64
 15    <uses-permission android:name="android.permission.CAMERA" />
-15-->/Users/diego/Desktop/app consuni/consuni/android/app/src/main/AndroidManifest.xml:4:5-66
-15-->/Users/diego/Desktop/app consuni/consuni/android/app/src/main/AndroidManifest.xml:4:22-64
+15-->/Users/diegoveneroso/consuni/android/app/src/main/AndroidManifest.xml:4:5-66
+15-->/Users/diegoveneroso/consuni/android/app/src/main/AndroidManifest.xml:4:22-64
 16    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
-16-->/Users/diego/Desktop/app consuni/consuni/android/app/src/main/AndroidManifest.xml:5:5-82
-16-->/Users/diego/Desktop/app consuni/consuni/android/app/src/main/AndroidManifest.xml:5:22-80
+16-->/Users/diegoveneroso/consuni/android/app/src/main/AndroidManifest.xml:5:5-82
+16-->/Users/diegoveneroso/consuni/android/app/src/main/AndroidManifest.xml:5:22-80
 17    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
-17-->/Users/diego/Desktop/app consuni/consuni/android/app/src/main/AndroidManifest.xml:6:5-81
-17-->/Users/diego/Desktop/app consuni/consuni/android/app/src/main/AndroidManifest.xml:6:22-79
+17-->/Users/diegoveneroso/consuni/android/app/src/main/AndroidManifest.xml:6:5-81
+17-->/Users/diegoveneroso/consuni/android/app/src/main/AndroidManifest.xml:6:22-79
 18    <uses-permission android:name="android.permission.WAKE_LOCK" />
-18-->[:firebase_messaging] /Users/diego/Desktop/app consuni/consuni/build/firebase_messaging/intermediates/library_manifest/debug/AndroidManifest.xml:8:5-68
-18-->[:firebase_messaging] /Users/diego/Desktop/app consuni/consuni/build/firebase_messaging/intermediates/library_manifest/debug/AndroidManifest.xml:8:22-65
+18-->[:firebase_messaging] /Users/diegoveneroso/consuni/build/firebase_messaging/intermediates/library_manifest/debug/AndroidManifest.xml:8:5-68
+18-->[:firebase_messaging] /Users/diegoveneroso/consuni/build/firebase_messaging/intermediates/library_manifest/debug/AndroidManifest.xml:8:22-65
 19    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
-19-->[:firebase_messaging] /Users/diego/Desktop/app consuni/consuni/build/firebase_messaging/intermediates/library_manifest/debug/AndroidManifest.xml:9:5-79
-19-->[:firebase_messaging] /Users/diego/Desktop/app consuni/consuni/build/firebase_messaging/intermediates/library_manifest/debug/AndroidManifest.xml:9:22-76
+19-->[:firebase_messaging] /Users/diegoveneroso/consuni/build/firebase_messaging/intermediates/library_manifest/debug/AndroidManifest.xml:9:5-79
+19-->[:firebase_messaging] /Users/diegoveneroso/consuni/build/firebase_messaging/intermediates/library_manifest/debug/AndroidManifest.xml:9:22-76
 20
 21    <queries>
-21-->[:file_picker] /Users/diego/Desktop/app consuni/consuni/build/file_picker/intermediates/library_manifest/debug/AndroidManifest.xml:9:5-15:15
+21-->[:file_picker] /Users/diegoveneroso/consuni/build/file_picker/intermediates/library_manifest/debug/AndroidManifest.xml:9:5-15:15
 22        <intent>
-22-->[:file_picker] /Users/diego/Desktop/app consuni/consuni/build/file_picker/intermediates/library_manifest/debug/AndroidManifest.xml:10:9-14:18
+22-->[:file_picker] /Users/diegoveneroso/consuni/build/file_picker/intermediates/library_manifest/debug/AndroidManifest.xml:10:9-14:18
 23            <action android:name="android.intent.action.GET_CONTENT" />
-23-->[:file_picker] /Users/diego/Desktop/app consuni/consuni/build/file_picker/intermediates/library_manifest/debug/AndroidManifest.xml:11:13-72
-23-->[:file_picker] /Users/diego/Desktop/app consuni/consuni/build/file_picker/intermediates/library_manifest/debug/AndroidManifest.xml:11:21-69
+23-->[:file_picker] /Users/diegoveneroso/consuni/build/file_picker/intermediates/library_manifest/debug/AndroidManifest.xml:11:13-72
+23-->[:file_picker] /Users/diegoveneroso/consuni/build/file_picker/intermediates/library_manifest/debug/AndroidManifest.xml:11:21-69
 24
 25            <data android:mimeType="*/*" />
-25-->[:file_picker] /Users/diego/Desktop/app consuni/consuni/build/file_picker/intermediates/library_manifest/debug/AndroidManifest.xml:13:13-44
-25-->[:file_picker] /Users/diego/Desktop/app consuni/consuni/build/file_picker/intermediates/library_manifest/debug/AndroidManifest.xml:13:19-41
+25-->[:file_picker] /Users/diegoveneroso/consuni/build/file_picker/intermediates/library_manifest/debug/AndroidManifest.xml:13:13-44
+25-->[:file_picker] /Users/diegoveneroso/consuni/build/file_picker/intermediates/library_manifest/debug/AndroidManifest.xml:13:19-41
 26        </intent>
 27    </queries>
 28
 29    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
-29-->[:awesome_notifications] /Users/diego/Desktop/app consuni/consuni/build/awesome_notifications/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-81
-29-->[:awesome_notifications] /Users/diego/Desktop/app consuni/consuni/build/awesome_notifications/intermediates/library_manifest/debug/AndroidManifest.xml:7:22-78
+29-->[:awesome_notifications] /Users/diegoveneroso/consuni/build/awesome_notifications/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-81
+29-->[:awesome_notifications] /Users/diegoveneroso/consuni/build/awesome_notifications/intermediates/library_manifest/debug/AndroidManifest.xml:7:22-78
 30    <uses-permission android:name="android.permission.VIBRATE" />
-30-->[:awesome_notifications] /Users/diego/Desktop/app consuni/consuni/build/awesome_notifications/intermediates/library_manifest/debug/AndroidManifest.xml:8:5-66
-30-->[:awesome_notifications] /Users/diego/Desktop/app consuni/consuni/build/awesome_notifications/intermediates/library_manifest/debug/AndroidManifest.xml:8:22-63
+30-->[:awesome_notifications] /Users/diegoveneroso/consuni/build/awesome_notifications/intermediates/library_manifest/debug/AndroidManifest.xml:8:5-66
+30-->[:awesome_notifications] /Users/diegoveneroso/consuni/build/awesome_notifications/intermediates/library_manifest/debug/AndroidManifest.xml:8:22-63
 31    <uses-permission android:name="android.permission.REQUEST_INSTALL_PACKAGES" />
-31-->[:open_file] /Users/diego/Desktop/app consuni/consuni/build/open_file/intermediates/library_manifest/debug/AndroidManifest.xml:8:5-83
-31-->[:open_file] /Users/diego/Desktop/app consuni/consuni/build/open_file/intermediates/library_manifest/debug/AndroidManifest.xml:8:22-80
+31-->[:open_file] /Users/diegoveneroso/consuni/build/open_file/intermediates/library_manifest/debug/AndroidManifest.xml:8:5-83
+31-->[:open_file] /Users/diegoveneroso/consuni/build/open_file/intermediates/library_manifest/debug/AndroidManifest.xml:8:22-80
 32    <uses-permission android:name="android.permission.USE_FULL_SCREEN_INTENT" /> <!-- Required by older versions of Google Play services to create IID tokens -->
-32-->[:flutter_local_notifications] /Users/diego/Desktop/app consuni/consuni/build/flutter_local_notifications/intermediates/library_manifest/debug/AndroidManifest.xml:9:5-81
-32-->[:flutter_local_notifications] /Users/diego/Desktop/app consuni/consuni/build/flutter_local_notifications/intermediates/library_manifest/debug/AndroidManifest.xml:9:22-78
+32-->[:flutter_local_notifications] /Users/diegoveneroso/consuni/build/flutter_local_notifications/intermediates/library_manifest/debug/AndroidManifest.xml:9:5-81
+32-->[:flutter_local_notifications] /Users/diegoveneroso/consuni/build/flutter_local_notifications/intermediates/library_manifest/debug/AndroidManifest.xml:9:22-78
 33    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
-33-->[com.google.firebase:firebase-messaging:23.0.5] /Users/diego/.gradle/caches/transforms-2/files-2.1/1803d3b63472383bf4581973eb65830c/jetified-firebase-messaging-23.0.5/AndroidManifest.xml:28:5-82
-33-->[com.google.firebase:firebase-messaging:23.0.5] /Users/diego/.gradle/caches/transforms-2/files-2.1/1803d3b63472383bf4581973eb65830c/jetified-firebase-messaging-23.0.5/AndroidManifest.xml:28:22-79
+33-->[com.google.firebase:firebase-messaging:23.0.5] /Users/diegoveneroso/.gradle/caches/transforms-2/files-2.1/1803d3b63472383bf4581973eb65830c/jetified-firebase-messaging-23.0.5/AndroidManifest.xml:28:5-82
+33-->[com.google.firebase:firebase-messaging:23.0.5] /Users/diegoveneroso/.gradle/caches/transforms-2/files-2.1/1803d3b63472383bf4581973eb65830c/jetified-firebase-messaging-23.0.5/AndroidManifest.xml:28:22-79
 34    <uses-permission android:name="com.google.android.gms.permission.AD_ID" />
-34-->[com.google.android.gms:play-services-measurement-api:21.0.0] /Users/diego/.gradle/caches/transforms-2/files-2.1/1cd6b35bba78aa82ebfb4f3fdea2085f/jetified-play-services-measurement-api-21.0.0/AndroidManifest.xml:25:5-79
-34-->[com.google.android.gms:play-services-measurement-api:21.0.0] /Users/diego/.gradle/caches/transforms-2/files-2.1/1cd6b35bba78aa82ebfb4f3fdea2085f/jetified-play-services-measurement-api-21.0.0/AndroidManifest.xml:25:22-76
+34-->[com.google.android.gms:play-services-measurement-api:21.0.0] /Users/diegoveneroso/.gradle/caches/transforms-2/files-2.1/1cd6b35bba78aa82ebfb4f3fdea2085f/jetified-play-services-measurement-api-21.0.0/AndroidManifest.xml:25:5-79
+34-->[com.google.android.gms:play-services-measurement-api:21.0.0] /Users/diegoveneroso/.gradle/caches/transforms-2/files-2.1/1cd6b35bba78aa82ebfb4f3fdea2085f/jetified-play-services-measurement-api-21.0.0/AndroidManifest.xml:25:22-76
 35    <uses-permission android:name="com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE" /> <!-- for android -->
-35-->[com.google.android.gms:play-services-measurement:21.0.0] /Users/diego/.gradle/caches/transforms-2/files-2.1/3b1d1e5571522f703c316a9309413648/jetified-play-services-measurement-21.0.0/AndroidManifest.xml:26:5-110
-35-->[com.google.android.gms:play-services-measurement:21.0.0] /Users/diego/.gradle/caches/transforms-2/files-2.1/3b1d1e5571522f703c316a9309413648/jetified-play-services-measurement-21.0.0/AndroidManifest.xml:26:22-107
+35-->[com.google.android.gms:play-services-measurement:21.0.0] /Users/diegoveneroso/.gradle/caches/transforms-2/files-2.1/3b1d1e5571522f703c316a9309413648/jetified-play-services-measurement-21.0.0/AndroidManifest.xml:26:5-110
+35-->[com.google.android.gms:play-services-measurement:21.0.0] /Users/diegoveneroso/.gradle/caches/transforms-2/files-2.1/3b1d1e5571522f703c316a9309413648/jetified-play-services-measurement-21.0.0/AndroidManifest.xml:26:22-107
 36    <!-- <uses-permission android:name="com.android.launcher.permission.READ_SETTINGS"/> -->
 37    <!-- <uses-permission android:name="com.android.launcher.permission.WRITE_SETTINGS"/> -->
 38    <!-- <uses-permission android:name="com.android.launcher.permission.INSTALL_SHORTCUT" /> -->
 39    <!-- <uses-permission android:name="com.android.launcher.permission.UNINSTALL_SHORTCUT" /> -->
 40    <!-- for Samsung -->
 41    <uses-permission android:name="com.sec.android.provider.badge.permission.READ" />
-41-->[me.leolin:ShortcutBadger:1.1.22] /Users/diego/.gradle/caches/transforms-2/files-2.1/df0c433d4cfb40f94cae026bc8211e0c/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:19:5-86
-41-->[me.leolin:ShortcutBadger:1.1.22] /Users/diego/.gradle/caches/transforms-2/files-2.1/df0c433d4cfb40f94cae026bc8211e0c/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:19:22-83
+41-->[me.leolin:ShortcutBadger:1.1.22] /Users/diegoveneroso/.gradle/caches/transforms-2/files-2.1/df0c433d4cfb40f94cae026bc8211e0c/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:19:5-86
+41-->[me.leolin:ShortcutBadger:1.1.22] /Users/diegoveneroso/.gradle/caches/transforms-2/files-2.1/df0c433d4cfb40f94cae026bc8211e0c/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:19:22-83
 42    <uses-permission android:name="com.sec.android.provider.badge.permission.WRITE" /> <!-- for htc -->
-42-->[me.leolin:ShortcutBadger:1.1.22] /Users/diego/.gradle/caches/transforms-2/files-2.1/df0c433d4cfb40f94cae026bc8211e0c/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:20:5-87
-42-->[me.leolin:ShortcutBadger:1.1.22] /Users/diego/.gradle/caches/transforms-2/files-2.1/df0c433d4cfb40f94cae026bc8211e0c/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:20:22-84
+42-->[me.leolin:ShortcutBadger:1.1.22] /Users/diegoveneroso/.gradle/caches/transforms-2/files-2.1/df0c433d4cfb40f94cae026bc8211e0c/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:20:5-87
+42-->[me.leolin:ShortcutBadger:1.1.22] /Users/diegoveneroso/.gradle/caches/transforms-2/files-2.1/df0c433d4cfb40f94cae026bc8211e0c/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:20:22-84
 43    <uses-permission android:name="com.htc.launcher.permission.READ_SETTINGS" />
-43-->[me.leolin:ShortcutBadger:1.1.22] /Users/diego/.gradle/caches/transforms-2/files-2.1/df0c433d4cfb40f94cae026bc8211e0c/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:23:5-81
-43-->[me.leolin:ShortcutBadger:1.1.22] /Users/diego/.gradle/caches/transforms-2/files-2.1/df0c433d4cfb40f94cae026bc8211e0c/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:23:22-78
+43-->[me.leolin:ShortcutBadger:1.1.22] /Users/diegoveneroso/.gradle/caches/transforms-2/files-2.1/df0c433d4cfb40f94cae026bc8211e0c/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:23:5-81
+43-->[me.leolin:ShortcutBadger:1.1.22] /Users/diegoveneroso/.gradle/caches/transforms-2/files-2.1/df0c433d4cfb40f94cae026bc8211e0c/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:23:22-78
 44    <uses-permission android:name="com.htc.launcher.permission.UPDATE_SHORTCUT" /> <!-- for sony -->
-44-->[me.leolin:ShortcutBadger:1.1.22] /Users/diego/.gradle/caches/transforms-2/files-2.1/df0c433d4cfb40f94cae026bc8211e0c/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:24:5-83
-44-->[me.leolin:ShortcutBadger:1.1.22] /Users/diego/.gradle/caches/transforms-2/files-2.1/df0c433d4cfb40f94cae026bc8211e0c/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:24:22-80
+44-->[me.leolin:ShortcutBadger:1.1.22] /Users/diegoveneroso/.gradle/caches/transforms-2/files-2.1/df0c433d4cfb40f94cae026bc8211e0c/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:24:5-83
+44-->[me.leolin:ShortcutBadger:1.1.22] /Users/diegoveneroso/.gradle/caches/transforms-2/files-2.1/df0c433d4cfb40f94cae026bc8211e0c/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:24:22-80
 45    <uses-permission android:name="com.sonyericsson.home.permission.BROADCAST_BADGE" />
-45-->[me.leolin:ShortcutBadger:1.1.22] /Users/diego/.gradle/caches/transforms-2/files-2.1/df0c433d4cfb40f94cae026bc8211e0c/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:27:5-88
-45-->[me.leolin:ShortcutBadger:1.1.22] /Users/diego/.gradle/caches/transforms-2/files-2.1/df0c433d4cfb40f94cae026bc8211e0c/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:27:22-85
+45-->[me.leolin:ShortcutBadger:1.1.22] /Users/diegoveneroso/.gradle/caches/transforms-2/files-2.1/df0c433d4cfb40f94cae026bc8211e0c/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:27:5-88
+45-->[me.leolin:ShortcutBadger:1.1.22] /Users/diegoveneroso/.gradle/caches/transforms-2/files-2.1/df0c433d4cfb40f94cae026bc8211e0c/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:27:22-85
 46    <uses-permission android:name="com.sonymobile.home.permission.PROVIDER_INSERT_BADGE" /> <!-- for apex -->
-46-->[me.leolin:ShortcutBadger:1.1.22] /Users/diego/.gradle/caches/transforms-2/files-2.1/df0c433d4cfb40f94cae026bc8211e0c/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:28:5-92
-46-->[me.leolin:ShortcutBadger:1.1.22] /Users/diego/.gradle/caches/transforms-2/files-2.1/df0c433d4cfb40f94cae026bc8211e0c/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:28:22-89
+46-->[me.leolin:ShortcutBadger:1.1.22] /Users/diegoveneroso/.gradle/caches/transforms-2/files-2.1/df0c433d4cfb40f94cae026bc8211e0c/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:28:5-92
+46-->[me.leolin:ShortcutBadger:1.1.22] /Users/diegoveneroso/.gradle/caches/transforms-2/files-2.1/df0c433d4cfb40f94cae026bc8211e0c/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:28:22-89
 47    <uses-permission android:name="com.anddoes.launcher.permission.UPDATE_COUNT" /> <!-- for solid -->
-47-->[me.leolin:ShortcutBadger:1.1.22] /Users/diego/.gradle/caches/transforms-2/files-2.1/df0c433d4cfb40f94cae026bc8211e0c/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:31:5-84
-47-->[me.leolin:ShortcutBadger:1.1.22] /Users/diego/.gradle/caches/transforms-2/files-2.1/df0c433d4cfb40f94cae026bc8211e0c/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:31:22-81
+47-->[me.leolin:ShortcutBadger:1.1.22] /Users/diegoveneroso/.gradle/caches/transforms-2/files-2.1/df0c433d4cfb40f94cae026bc8211e0c/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:31:5-84
+47-->[me.leolin:ShortcutBadger:1.1.22] /Users/diegoveneroso/.gradle/caches/transforms-2/files-2.1/df0c433d4cfb40f94cae026bc8211e0c/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:31:22-81
 48    <uses-permission android:name="com.majeur.launcher.permission.UPDATE_BADGE" /> <!-- for huawei -->
-48-->[me.leolin:ShortcutBadger:1.1.22] /Users/diego/.gradle/caches/transforms-2/files-2.1/df0c433d4cfb40f94cae026bc8211e0c/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:34:5-83
-48-->[me.leolin:ShortcutBadger:1.1.22] /Users/diego/.gradle/caches/transforms-2/files-2.1/df0c433d4cfb40f94cae026bc8211e0c/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:34:22-80
+48-->[me.leolin:ShortcutBadger:1.1.22] /Users/diegoveneroso/.gradle/caches/transforms-2/files-2.1/df0c433d4cfb40f94cae026bc8211e0c/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:34:5-83
+48-->[me.leolin:ShortcutBadger:1.1.22] /Users/diegoveneroso/.gradle/caches/transforms-2/files-2.1/df0c433d4cfb40f94cae026bc8211e0c/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:34:22-80
 49    <uses-permission android:name="com.huawei.android.launcher.permission.CHANGE_BADGE" />
-49-->[me.leolin:ShortcutBadger:1.1.22] /Users/diego/.gradle/caches/transforms-2/files-2.1/df0c433d4cfb40f94cae026bc8211e0c/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:37:5-91
-49-->[me.leolin:ShortcutBadger:1.1.22] /Users/diego/.gradle/caches/transforms-2/files-2.1/df0c433d4cfb40f94cae026bc8211e0c/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:37:22-88
+49-->[me.leolin:ShortcutBadger:1.1.22] /Users/diegoveneroso/.gradle/caches/transforms-2/files-2.1/df0c433d4cfb40f94cae026bc8211e0c/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:37:5-91
+49-->[me.leolin:ShortcutBadger:1.1.22] /Users/diegoveneroso/.gradle/caches/transforms-2/files-2.1/df0c433d4cfb40f94cae026bc8211e0c/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:37:22-88
 50    <uses-permission android:name="com.huawei.android.launcher.permission.READ_SETTINGS" />
-50-->[me.leolin:ShortcutBadger:1.1.22] /Users/diego/.gradle/caches/transforms-2/files-2.1/df0c433d4cfb40f94cae026bc8211e0c/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:38:5-92
-50-->[me.leolin:ShortcutBadger:1.1.22] /Users/diego/.gradle/caches/transforms-2/files-2.1/df0c433d4cfb40f94cae026bc8211e0c/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:38:22-89
+50-->[me.leolin:ShortcutBadger:1.1.22] /Users/diegoveneroso/.gradle/caches/transforms-2/files-2.1/df0c433d4cfb40f94cae026bc8211e0c/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:38:5-92
+50-->[me.leolin:ShortcutBadger:1.1.22] /Users/diegoveneroso/.gradle/caches/transforms-2/files-2.1/df0c433d4cfb40f94cae026bc8211e0c/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:38:22-89
 51    <uses-permission android:name="com.huawei.android.launcher.permission.WRITE_SETTINGS" /> <!-- for ZUK -->
-51-->[me.leolin:ShortcutBadger:1.1.22] /Users/diego/.gradle/caches/transforms-2/files-2.1/df0c433d4cfb40f94cae026bc8211e0c/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:39:5-93
-51-->[me.leolin:ShortcutBadger:1.1.22] /Users/diego/.gradle/caches/transforms-2/files-2.1/df0c433d4cfb40f94cae026bc8211e0c/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:39:22-90
+51-->[me.leolin:ShortcutBadger:1.1.22] /Users/diegoveneroso/.gradle/caches/transforms-2/files-2.1/df0c433d4cfb40f94cae026bc8211e0c/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:39:5-93
+51-->[me.leolin:ShortcutBadger:1.1.22] /Users/diegoveneroso/.gradle/caches/transforms-2/files-2.1/df0c433d4cfb40f94cae026bc8211e0c/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:39:22-90
 52    <uses-permission android:name="android.permission.READ_APP_BADGE" /> <!-- for OPPO -->
-52-->[me.leolin:ShortcutBadger:1.1.22] /Users/diego/.gradle/caches/transforms-2/files-2.1/df0c433d4cfb40f94cae026bc8211e0c/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:42:5-73
-52-->[me.leolin:ShortcutBadger:1.1.22] /Users/diego/.gradle/caches/transforms-2/files-2.1/df0c433d4cfb40f94cae026bc8211e0c/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:42:22-70
+52-->[me.leolin:ShortcutBadger:1.1.22] /Users/diegoveneroso/.gradle/caches/transforms-2/files-2.1/df0c433d4cfb40f94cae026bc8211e0c/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:42:5-73
+52-->[me.leolin:ShortcutBadger:1.1.22] /Users/diegoveneroso/.gradle/caches/transforms-2/files-2.1/df0c433d4cfb40f94cae026bc8211e0c/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:42:22-70
 53    <uses-permission android:name="com.oppo.launcher.permission.READ_SETTINGS" />
-53-->[me.leolin:ShortcutBadger:1.1.22] /Users/diego/.gradle/caches/transforms-2/files-2.1/df0c433d4cfb40f94cae026bc8211e0c/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:45:5-82
-53-->[me.leolin:ShortcutBadger:1.1.22] /Users/diego/.gradle/caches/transforms-2/files-2.1/df0c433d4cfb40f94cae026bc8211e0c/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:45:22-79
+53-->[me.leolin:ShortcutBadger:1.1.22] /Users/diegoveneroso/.gradle/caches/transforms-2/files-2.1/df0c433d4cfb40f94cae026bc8211e0c/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:45:5-82
+53-->[me.leolin:ShortcutBadger:1.1.22] /Users/diegoveneroso/.gradle/caches/transforms-2/files-2.1/df0c433d4cfb40f94cae026bc8211e0c/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:45:22-79
 54    <uses-permission android:name="com.oppo.launcher.permission.WRITE_SETTINGS" /> <!-- for EvMe -->
-54-->[me.leolin:ShortcutBadger:1.1.22] /Users/diego/.gradle/caches/transforms-2/files-2.1/df0c433d4cfb40f94cae026bc8211e0c/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:46:5-83
-54-->[me.leolin:ShortcutBadger:1.1.22] /Users/diego/.gradle/caches/transforms-2/files-2.1/df0c433d4cfb40f94cae026bc8211e0c/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:46:22-80
+54-->[me.leolin:ShortcutBadger:1.1.22] /Users/diegoveneroso/.gradle/caches/transforms-2/files-2.1/df0c433d4cfb40f94cae026bc8211e0c/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:46:5-83
+54-->[me.leolin:ShortcutBadger:1.1.22] /Users/diegoveneroso/.gradle/caches/transforms-2/files-2.1/df0c433d4cfb40f94cae026bc8211e0c/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:46:22-80
 55    <uses-permission android:name="me.everything.badger.permission.BADGE_COUNT_READ" />
-55-->[me.leolin:ShortcutBadger:1.1.22] /Users/diego/.gradle/caches/transforms-2/files-2.1/df0c433d4cfb40f94cae026bc8211e0c/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:49:5-88
-55-->[me.leolin:ShortcutBadger:1.1.22] /Users/diego/.gradle/caches/transforms-2/files-2.1/df0c433d4cfb40f94cae026bc8211e0c/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:49:22-85
+55-->[me.leolin:ShortcutBadger:1.1.22] /Users/diegoveneroso/.gradle/caches/transforms-2/files-2.1/df0c433d4cfb40f94cae026bc8211e0c/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:49:5-88
+55-->[me.leolin:ShortcutBadger:1.1.22] /Users/diegoveneroso/.gradle/caches/transforms-2/files-2.1/df0c433d4cfb40f94cae026bc8211e0c/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:49:22-85
 56    <uses-permission android:name="me.everything.badger.permission.BADGE_COUNT_WRITE" />
-56-->[me.leolin:ShortcutBadger:1.1.22] /Users/diego/.gradle/caches/transforms-2/files-2.1/df0c433d4cfb40f94cae026bc8211e0c/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:50:5-89
-56-->[me.leolin:ShortcutBadger:1.1.22] /Users/diego/.gradle/caches/transforms-2/files-2.1/df0c433d4cfb40f94cae026bc8211e0c/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:50:22-86
+56-->[me.leolin:ShortcutBadger:1.1.22] /Users/diegoveneroso/.gradle/caches/transforms-2/files-2.1/df0c433d4cfb40f94cae026bc8211e0c/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:50:5-89
+56-->[me.leolin:ShortcutBadger:1.1.22] /Users/diegoveneroso/.gradle/caches/transforms-2/files-2.1/df0c433d4cfb40f94cae026bc8211e0c/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:50:22-86
 57
 58    <application
 59        android:name="android.app.Application"
 60        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
-60-->[androidx.core:core:1.7.0] /Users/diego/.gradle/caches/transforms-2/files-2.1/3f6d9ef3b65bfee01861f2e5d3bab0bd/core-1.7.0/AndroidManifest.xml:24:18-86
+60-->[androidx.core:core:1.7.0] /Users/diegoveneroso/.gradle/caches/transforms-2/files-2.1/3f6d9ef3b65bfee01861f2e5d3bab0bd/core-1.7.0/AndroidManifest.xml:24:18-86
 61        android:debuggable="true"
 62        android:icon="@mipmap/ic_launcher"
-63        android:label="consuni_mobile" >
+63        android:label="consuni" >
 64        <activity
-65            android:name="ga.consuni.consuni_mobile.MainActivity"
+65            android:name="ga.consuni.consuni.MainActivity"
 66            android:configChanges="orientation|keyboardHidden|keyboard|screenSize|smallestScreenSize|locale|layoutDirection|fontScale|screenLayout|density|uiMode"
 67            android:exported="true"
 68            android:hardwareAccelerated="true"
@@ -160,244 +160,244 @@
 95            android:value="2" />
 96
 97        <service
-97-->[:firebase_messaging] /Users/diego/Desktop/app consuni/consuni/build/firebase_messaging/intermediates/library_manifest/debug/AndroidManifest.xml:12:9-15:72
+97-->[:firebase_messaging] /Users/diegoveneroso/consuni/build/firebase_messaging/intermediates/library_manifest/debug/AndroidManifest.xml:12:9-15:72
 98            android:name="io.flutter.plugins.firebase.messaging.FlutterFirebaseMessagingBackgroundService"
-98-->[:firebase_messaging] /Users/diego/Desktop/app consuni/consuni/build/firebase_messaging/intermediates/library_manifest/debug/AndroidManifest.xml:13:13-107
+98-->[:firebase_messaging] /Users/diegoveneroso/consuni/build/firebase_messaging/intermediates/library_manifest/debug/AndroidManifest.xml:13:13-107
 99            android:exported="false"
-99-->[:firebase_messaging] /Users/diego/Desktop/app consuni/consuni/build/firebase_messaging/intermediates/library_manifest/debug/AndroidManifest.xml:14:13-37
+99-->[:firebase_messaging] /Users/diegoveneroso/consuni/build/firebase_messaging/intermediates/library_manifest/debug/AndroidManifest.xml:14:13-37
 100            android:permission="android.permission.BIND_JOB_SERVICE" />
-100-->[:firebase_messaging] /Users/diego/Desktop/app consuni/consuni/build/firebase_messaging/intermediates/library_manifest/debug/AndroidManifest.xml:15:13-69
+100-->[:firebase_messaging] /Users/diegoveneroso/consuni/build/firebase_messaging/intermediates/library_manifest/debug/AndroidManifest.xml:15:13-69
 101        <service
-101-->[:firebase_messaging] /Users/diego/Desktop/app consuni/consuni/build/firebase_messaging/intermediates/library_manifest/debug/AndroidManifest.xml:16:9-22:19
+101-->[:firebase_messaging] /Users/diegoveneroso/consuni/build/firebase_messaging/intermediates/library_manifest/debug/AndroidManifest.xml:16:9-22:19
 102            android:name="io.flutter.plugins.firebase.messaging.FlutterFirebaseMessagingService"
-102-->[:firebase_messaging] /Users/diego/Desktop/app consuni/consuni/build/firebase_messaging/intermediates/library_manifest/debug/AndroidManifest.xml:17:13-97
+102-->[:firebase_messaging] /Users/diegoveneroso/consuni/build/firebase_messaging/intermediates/library_manifest/debug/AndroidManifest.xml:17:13-97
 103            android:exported="false" >
-103-->[:firebase_messaging] /Users/diego/Desktop/app consuni/consuni/build/firebase_messaging/intermediates/library_manifest/debug/AndroidManifest.xml:18:13-37
+103-->[:firebase_messaging] /Users/diegoveneroso/consuni/build/firebase_messaging/intermediates/library_manifest/debug/AndroidManifest.xml:18:13-37
 104            <intent-filter>
-104-->[:firebase_messaging] /Users/diego/Desktop/app consuni/consuni/build/firebase_messaging/intermediates/library_manifest/debug/AndroidManifest.xml:19:13-21:29
+104-->[:firebase_messaging] /Users/diegoveneroso/consuni/build/firebase_messaging/intermediates/library_manifest/debug/AndroidManifest.xml:19:13-21:29
 105                <action android:name="com.google.firebase.MESSAGING_EVENT" />
-105-->[:firebase_messaging] /Users/diego/Desktop/app consuni/consuni/build/firebase_messaging/intermediates/library_manifest/debug/AndroidManifest.xml:20:17-78
-105-->[:firebase_messaging] /Users/diego/Desktop/app consuni/consuni/build/firebase_messaging/intermediates/library_manifest/debug/AndroidManifest.xml:20:25-75
+105-->[:firebase_messaging] /Users/diegoveneroso/consuni/build/firebase_messaging/intermediates/library_manifest/debug/AndroidManifest.xml:20:17-78
+105-->[:firebase_messaging] /Users/diegoveneroso/consuni/build/firebase_messaging/intermediates/library_manifest/debug/AndroidManifest.xml:20:25-75
 106            </intent-filter>
 107        </service>
 108
 109        <receiver
-109-->[:firebase_messaging] /Users/diego/Desktop/app consuni/consuni/build/firebase_messaging/intermediates/library_manifest/debug/AndroidManifest.xml:24:9-31:20
+109-->[:firebase_messaging] /Users/diegoveneroso/consuni/build/firebase_messaging/intermediates/library_manifest/debug/AndroidManifest.xml:24:9-31:20
 110            android:name="io.flutter.plugins.firebase.messaging.FlutterFirebaseMessagingReceiver"
-110-->[:firebase_messaging] /Users/diego/Desktop/app consuni/consuni/build/firebase_messaging/intermediates/library_manifest/debug/AndroidManifest.xml:25:13-98
+110-->[:firebase_messaging] /Users/diegoveneroso/consuni/build/firebase_messaging/intermediates/library_manifest/debug/AndroidManifest.xml:25:13-98
 111            android:exported="true"
-111-->[:firebase_messaging] /Users/diego/Desktop/app consuni/consuni/build/firebase_messaging/intermediates/library_manifest/debug/AndroidManifest.xml:26:13-36
+111-->[:firebase_messaging] /Users/diegoveneroso/consuni/build/firebase_messaging/intermediates/library_manifest/debug/AndroidManifest.xml:26:13-36
 112            android:permission="com.google.android.c2dm.permission.SEND" >
-112-->[:firebase_messaging] /Users/diego/Desktop/app consuni/consuni/build/firebase_messaging/intermediates/library_manifest/debug/AndroidManifest.xml:27:13-73
+112-->[:firebase_messaging] /Users/diegoveneroso/consuni/build/firebase_messaging/intermediates/library_manifest/debug/AndroidManifest.xml:27:13-73
 113            <intent-filter>
-113-->[:firebase_messaging] /Users/diego/Desktop/app consuni/consuni/build/firebase_messaging/intermediates/library_manifest/debug/AndroidManifest.xml:28:13-30:29
+113-->[:firebase_messaging] /Users/diegoveneroso/consuni/build/firebase_messaging/intermediates/library_manifest/debug/AndroidManifest.xml:28:13-30:29
 114                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
-114-->[:firebase_messaging] /Users/diego/Desktop/app consuni/consuni/build/firebase_messaging/intermediates/library_manifest/debug/AndroidManifest.xml:29:17-81
-114-->[:firebase_messaging] /Users/diego/Desktop/app consuni/consuni/build/firebase_messaging/intermediates/library_manifest/debug/AndroidManifest.xml:29:25-78
+114-->[:firebase_messaging] /Users/diegoveneroso/consuni/build/firebase_messaging/intermediates/library_manifest/debug/AndroidManifest.xml:29:17-81
+114-->[:firebase_messaging] /Users/diegoveneroso/consuni/build/firebase_messaging/intermediates/library_manifest/debug/AndroidManifest.xml:29:25-78
 115            </intent-filter>
 116        </receiver>
 117
 118        <service
-118-->[:firebase_messaging] /Users/diego/Desktop/app consuni/consuni/build/firebase_messaging/intermediates/library_manifest/debug/AndroidManifest.xml:33:9-37:19
+118-->[:firebase_messaging] /Users/diegoveneroso/consuni/build/firebase_messaging/intermediates/library_manifest/debug/AndroidManifest.xml:33:9-37:19
 119            android:name="com.google.firebase.components.ComponentDiscoveryService"
-119-->[:firebase_messaging] /Users/diego/Desktop/app consuni/consuni/build/firebase_messaging/intermediates/library_manifest/debug/AndroidManifest.xml:33:18-89
+119-->[:firebase_messaging] /Users/diegoveneroso/consuni/build/firebase_messaging/intermediates/library_manifest/debug/AndroidManifest.xml:33:18-89
 120            android:directBootAware="true"
-120-->[com.google.firebase:firebase-common:20.1.1] /Users/diego/.gradle/caches/transforms-2/files-2.1/0f67b2d2737c37bf1274c8f8df4996b1/jetified-firebase-common-20.1.1/AndroidManifest.xml:35:13-43
+120-->[com.google.firebase:firebase-common:20.1.1] /Users/diegoveneroso/.gradle/caches/transforms-2/files-2.1/0f67b2d2737c37bf1274c8f8df4996b1/jetified-firebase-common-20.1.1/AndroidManifest.xml:35:13-43
 121            android:exported="false" >
-121-->[com.google.firebase:firebase-messaging:23.0.5] /Users/diego/.gradle/caches/transforms-2/files-2.1/1803d3b63472383bf4581973eb65830c/jetified-firebase-messaging-23.0.5/AndroidManifest.xml:54:13-37
+121-->[com.google.firebase:firebase-messaging:23.0.5] /Users/diegoveneroso/.gradle/caches/transforms-2/files-2.1/1803d3b63472383bf4581973eb65830c/jetified-firebase-messaging-23.0.5/AndroidManifest.xml:54:13-37
 122            <meta-data
-122-->[:firebase_messaging] /Users/diego/Desktop/app consuni/consuni/build/firebase_messaging/intermediates/library_manifest/debug/AndroidManifest.xml:34:13-36:85
+122-->[:firebase_messaging] /Users/diegoveneroso/consuni/build/firebase_messaging/intermediates/library_manifest/debug/AndroidManifest.xml:34:13-36:85
 123                android:name="com.google.firebase.components:io.flutter.plugins.firebase.messaging.FlutterFirebaseAppRegistrar"
-123-->[:firebase_messaging] /Users/diego/Desktop/app consuni/consuni/build/firebase_messaging/intermediates/library_manifest/debug/AndroidManifest.xml:35:17-128
+123-->[:firebase_messaging] /Users/diegoveneroso/consuni/build/firebase_messaging/intermediates/library_manifest/debug/AndroidManifest.xml:35:17-128
 124                android:value="com.google.firebase.components.ComponentRegistrar" />
-124-->[:firebase_messaging] /Users/diego/Desktop/app consuni/consuni/build/firebase_messaging/intermediates/library_manifest/debug/AndroidManifest.xml:36:17-82
+124-->[:firebase_messaging] /Users/diegoveneroso/consuni/build/firebase_messaging/intermediates/library_manifest/debug/AndroidManifest.xml:36:17-82
 125            <meta-data
-125-->[:firebase_core] /Users/diego/Desktop/app consuni/consuni/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:9:13-11:85
+125-->[:firebase_core] /Users/diegoveneroso/consuni/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:9:13-11:85
 126                android:name="com.google.firebase.components:io.flutter.plugins.firebase.core.FlutterFirebaseCoreRegistrar"
-126-->[:firebase_core] /Users/diego/Desktop/app consuni/consuni/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:10:17-124
+126-->[:firebase_core] /Users/diegoveneroso/consuni/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:10:17-124
 127                android:value="com.google.firebase.components.ComponentRegistrar" />
-127-->[:firebase_core] /Users/diego/Desktop/app consuni/consuni/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:11:17-82
+127-->[:firebase_core] /Users/diegoveneroso/consuni/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:11:17-82
 128            <meta-data
-128-->[com.google.firebase:firebase-messaging:23.0.5] /Users/diego/.gradle/caches/transforms-2/files-2.1/1803d3b63472383bf4581973eb65830c/jetified-firebase-messaging-23.0.5/AndroidManifest.xml:55:13-57:85
+128-->[com.google.firebase:firebase-messaging:23.0.5] /Users/diegoveneroso/.gradle/caches/transforms-2/files-2.1/1803d3b63472383bf4581973eb65830c/jetified-firebase-messaging-23.0.5/AndroidManifest.xml:55:13-57:85
 129                android:name="com.google.firebase.components:com.google.firebase.messaging.FirebaseMessagingRegistrar"
-129-->[com.google.firebase:firebase-messaging:23.0.5] /Users/diego/.gradle/caches/transforms-2/files-2.1/1803d3b63472383bf4581973eb65830c/jetified-firebase-messaging-23.0.5/AndroidManifest.xml:56:17-119
+129-->[com.google.firebase:firebase-messaging:23.0.5] /Users/diegoveneroso/.gradle/caches/transforms-2/files-2.1/1803d3b63472383bf4581973eb65830c/jetified-firebase-messaging-23.0.5/AndroidManifest.xml:56:17-119
 130                android:value="com.google.firebase.components.ComponentRegistrar" />
-130-->[com.google.firebase:firebase-messaging:23.0.5] /Users/diego/.gradle/caches/transforms-2/files-2.1/1803d3b63472383bf4581973eb65830c/jetified-firebase-messaging-23.0.5/AndroidManifest.xml:57:17-82
+130-->[com.google.firebase:firebase-messaging:23.0.5] /Users/diegoveneroso/.gradle/caches/transforms-2/files-2.1/1803d3b63472383bf4581973eb65830c/jetified-firebase-messaging-23.0.5/AndroidManifest.xml:57:17-82
 131            <meta-data
-131-->[com.google.firebase:firebase-datatransport:18.1.4] /Users/diego/.gradle/caches/transforms-2/files-2.1/9b1f21c841cab910306b02ae6f312da5/jetified-firebase-datatransport-18.1.4/AndroidManifest.xml:28:13-30:85
+131-->[com.google.firebase:firebase-datatransport:18.1.4] /Users/diegoveneroso/.gradle/caches/transforms-2/files-2.1/9b1f21c841cab910306b02ae6f312da5/jetified-firebase-datatransport-18.1.4/AndroidManifest.xml:28:13-30:85
 132                android:name="com.google.firebase.components:com.google.firebase.datatransport.TransportRegistrar"
-132-->[com.google.firebase:firebase-datatransport:18.1.4] /Users/diego/.gradle/caches/transforms-2/files-2.1/9b1f21c841cab910306b02ae6f312da5/jetified-firebase-datatransport-18.1.4/AndroidManifest.xml:29:17-115
+132-->[com.google.firebase:firebase-datatransport:18.1.4] /Users/diegoveneroso/.gradle/caches/transforms-2/files-2.1/9b1f21c841cab910306b02ae6f312da5/jetified-firebase-datatransport-18.1.4/AndroidManifest.xml:29:17-115
 133                android:value="com.google.firebase.components.ComponentRegistrar" />
-133-->[com.google.firebase:firebase-datatransport:18.1.4] /Users/diego/.gradle/caches/transforms-2/files-2.1/9b1f21c841cab910306b02ae6f312da5/jetified-firebase-datatransport-18.1.4/AndroidManifest.xml:30:17-82
+133-->[com.google.firebase:firebase-datatransport:18.1.4] /Users/diegoveneroso/.gradle/caches/transforms-2/files-2.1/9b1f21c841cab910306b02ae6f312da5/jetified-firebase-datatransport-18.1.4/AndroidManifest.xml:30:17-82
 134            <meta-data
-134-->[com.google.android.gms:play-services-measurement-api:21.0.0] /Users/diego/.gradle/caches/transforms-2/files-2.1/1cd6b35bba78aa82ebfb4f3fdea2085f/jetified-play-services-measurement-api-21.0.0/AndroidManifest.xml:31:13-33:85
+134-->[com.google.android.gms:play-services-measurement-api:21.0.0] /Users/diegoveneroso/.gradle/caches/transforms-2/files-2.1/1cd6b35bba78aa82ebfb4f3fdea2085f/jetified-play-services-measurement-api-21.0.0/AndroidManifest.xml:31:13-33:85
 135                android:name="com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar"
-135-->[com.google.android.gms:play-services-measurement-api:21.0.0] /Users/diego/.gradle/caches/transforms-2/files-2.1/1cd6b35bba78aa82ebfb4f3fdea2085f/jetified-play-services-measurement-api-21.0.0/AndroidManifest.xml:32:17-139
+135-->[com.google.android.gms:play-services-measurement-api:21.0.0] /Users/diegoveneroso/.gradle/caches/transforms-2/files-2.1/1cd6b35bba78aa82ebfb4f3fdea2085f/jetified-play-services-measurement-api-21.0.0/AndroidManifest.xml:32:17-139
 136                android:value="com.google.firebase.components.ComponentRegistrar" />
-136-->[com.google.android.gms:play-services-measurement-api:21.0.0] /Users/diego/.gradle/caches/transforms-2/files-2.1/1cd6b35bba78aa82ebfb4f3fdea2085f/jetified-play-services-measurement-api-21.0.0/AndroidManifest.xml:33:17-82
+136-->[com.google.android.gms:play-services-measurement-api:21.0.0] /Users/diegoveneroso/.gradle/caches/transforms-2/files-2.1/1cd6b35bba78aa82ebfb4f3fdea2085f/jetified-play-services-measurement-api-21.0.0/AndroidManifest.xml:33:17-82
 137            <meta-data
-137-->[com.google.firebase:firebase-installations:17.0.1] /Users/diego/.gradle/caches/transforms-2/files-2.1/5c0bcaf225cb7771e65a14163b1c7474/jetified-firebase-installations-17.0.1/AndroidManifest.xml:18:13-20:85
+137-->[com.google.firebase:firebase-installations:17.0.1] /Users/diegoveneroso/.gradle/caches/transforms-2/files-2.1/5c0bcaf225cb7771e65a14163b1c7474/jetified-firebase-installations-17.0.1/AndroidManifest.xml:18:13-20:85
 138                android:name="com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar"
-138-->[com.google.firebase:firebase-installations:17.0.1] /Users/diego/.gradle/caches/transforms-2/files-2.1/5c0bcaf225cb7771e65a14163b1c7474/jetified-firebase-installations-17.0.1/AndroidManifest.xml:19:17-127
+138-->[com.google.firebase:firebase-installations:17.0.1] /Users/diegoveneroso/.gradle/caches/transforms-2/files-2.1/5c0bcaf225cb7771e65a14163b1c7474/jetified-firebase-installations-17.0.1/AndroidManifest.xml:19:17-127
 139                android:value="com.google.firebase.components.ComponentRegistrar" />
-139-->[com.google.firebase:firebase-installations:17.0.1] /Users/diego/.gradle/caches/transforms-2/files-2.1/5c0bcaf225cb7771e65a14163b1c7474/jetified-firebase-installations-17.0.1/AndroidManifest.xml:20:17-82
+139-->[com.google.firebase:firebase-installations:17.0.1] /Users/diegoveneroso/.gradle/caches/transforms-2/files-2.1/5c0bcaf225cb7771e65a14163b1c7474/jetified-firebase-installations-17.0.1/AndroidManifest.xml:20:17-82
 140        </service>
 141
 142        <provider
-142-->[:firebase_messaging] /Users/diego/Desktop/app consuni/consuni/build/firebase_messaging/intermediates/library_manifest/debug/AndroidManifest.xml:39:9-43:38
+142-->[:firebase_messaging] /Users/diegoveneroso/consuni/build/firebase_messaging/intermediates/library_manifest/debug/AndroidManifest.xml:39:9-43:38
 143            android:name="io.flutter.plugins.firebase.messaging.FlutterFirebaseMessagingInitProvider"
-143-->[:firebase_messaging] /Users/diego/Desktop/app consuni/consuni/build/firebase_messaging/intermediates/library_manifest/debug/AndroidManifest.xml:40:13-102
-144            android:authorities="ga.consuni.consuni_mobile.flutterfirebasemessaginginitprovider"
-144-->[:firebase_messaging] /Users/diego/Desktop/app consuni/consuni/build/firebase_messaging/intermediates/library_manifest/debug/AndroidManifest.xml:41:13-88
+143-->[:firebase_messaging] /Users/diegoveneroso/consuni/build/firebase_messaging/intermediates/library_manifest/debug/AndroidManifest.xml:40:13-102
+144            android:authorities="ga.consuni.consuni.flutterfirebasemessaginginitprovider"
+144-->[:firebase_messaging] /Users/diegoveneroso/consuni/build/firebase_messaging/intermediates/library_manifest/debug/AndroidManifest.xml:41:13-88
 145            android:exported="false"
-145-->[:firebase_messaging] /Users/diego/Desktop/app consuni/consuni/build/firebase_messaging/intermediates/library_manifest/debug/AndroidManifest.xml:42:13-37
+145-->[:firebase_messaging] /Users/diegoveneroso/consuni/build/firebase_messaging/intermediates/library_manifest/debug/AndroidManifest.xml:42:13-37
 146            android:initOrder="99" />
-146-->[:firebase_messaging] /Users/diego/Desktop/app consuni/consuni/build/firebase_messaging/intermediates/library_manifest/debug/AndroidManifest.xml:43:13-35
+146-->[:firebase_messaging] /Users/diegoveneroso/consuni/build/firebase_messaging/intermediates/library_manifest/debug/AndroidManifest.xml:43:13-35
 147        <provider
-147-->[:image_picker_android] /Users/diego/Desktop/app consuni/consuni/build/image_picker_android/intermediates/library_manifest/debug/AndroidManifest.xml:8:9-16:20
+147-->[:image_picker_android] /Users/diegoveneroso/consuni/build/image_picker_android/intermediates/library_manifest/debug/AndroidManifest.xml:8:9-16:20
 148            android:name="io.flutter.plugins.imagepicker.ImagePickerFileProvider"
-148-->[:image_picker_android] /Users/diego/Desktop/app consuni/consuni/build/image_picker_android/intermediates/library_manifest/debug/AndroidManifest.xml:9:13-82
-149            android:authorities="ga.consuni.consuni_mobile.flutter.image_provider"
-149-->[:image_picker_android] /Users/diego/Desktop/app consuni/consuni/build/image_picker_android/intermediates/library_manifest/debug/AndroidManifest.xml:10:13-74
+148-->[:image_picker_android] /Users/diegoveneroso/consuni/build/image_picker_android/intermediates/library_manifest/debug/AndroidManifest.xml:9:13-82
+149            android:authorities="ga.consuni.consuni.flutter.image_provider"
+149-->[:image_picker_android] /Users/diegoveneroso/consuni/build/image_picker_android/intermediates/library_manifest/debug/AndroidManifest.xml:10:13-74
 150            android:exported="false"
-150-->[:image_picker_android] /Users/diego/Desktop/app consuni/consuni/build/image_picker_android/intermediates/library_manifest/debug/AndroidManifest.xml:11:13-37
+150-->[:image_picker_android] /Users/diegoveneroso/consuni/build/image_picker_android/intermediates/library_manifest/debug/AndroidManifest.xml:11:13-37
 151            android:grantUriPermissions="true" >
-151-->[:image_picker_android] /Users/diego/Desktop/app consuni/consuni/build/image_picker_android/intermediates/library_manifest/debug/AndroidManifest.xml:12:13-47
+151-->[:image_picker_android] /Users/diegoveneroso/consuni/build/image_picker_android/intermediates/library_manifest/debug/AndroidManifest.xml:12:13-47
 152            <meta-data
-152-->[:image_picker_android] /Users/diego/Desktop/app consuni/consuni/build/image_picker_android/intermediates/library_manifest/debug/AndroidManifest.xml:13:13-15:75
+152-->[:image_picker_android] /Users/diegoveneroso/consuni/build/image_picker_android/intermediates/library_manifest/debug/AndroidManifest.xml:13:13-15:75
 153                android:name="android.support.FILE_PROVIDER_PATHS"
-153-->[:image_picker_android] /Users/diego/Desktop/app consuni/consuni/build/image_picker_android/intermediates/library_manifest/debug/AndroidManifest.xml:14:17-67
+153-->[:image_picker_android] /Users/diegoveneroso/consuni/build/image_picker_android/intermediates/library_manifest/debug/AndroidManifest.xml:14:17-67
 154                android:resource="@xml/flutter_image_picker_file_paths" />
-154-->[:image_picker_android] /Users/diego/Desktop/app consuni/consuni/build/image_picker_android/intermediates/library_manifest/debug/AndroidManifest.xml:15:17-72
+154-->[:image_picker_android] /Users/diegoveneroso/consuni/build/image_picker_android/intermediates/library_manifest/debug/AndroidManifest.xml:15:17-72
 155        </provider>
 156
 157        <receiver
-157-->[:awesome_notifications] /Users/diego/Desktop/app consuni/consuni/build/awesome_notifications/intermediates/library_manifest/debug/AndroidManifest.xml:11:9-13:40
+157-->[:awesome_notifications] /Users/diegoveneroso/consuni/build/awesome_notifications/intermediates/library_manifest/debug/AndroidManifest.xml:11:9-13:40
 158            android:name="me.carda.awesome_notifications.notifications.broadcastReceivers.DismissedNotificationReceiver"
-158-->[:awesome_notifications] /Users/diego/Desktop/app consuni/consuni/build/awesome_notifications/intermediates/library_manifest/debug/AndroidManifest.xml:12:13-121
+158-->[:awesome_notifications] /Users/diegoveneroso/consuni/build/awesome_notifications/intermediates/library_manifest/debug/AndroidManifest.xml:12:13-121
 159            android:exported="false" />
-159-->[:awesome_notifications] /Users/diego/Desktop/app consuni/consuni/build/awesome_notifications/intermediates/library_manifest/debug/AndroidManifest.xml:13:13-37
+159-->[:awesome_notifications] /Users/diegoveneroso/consuni/build/awesome_notifications/intermediates/library_manifest/debug/AndroidManifest.xml:13:13-37
 160        <receiver
-160-->[:awesome_notifications] /Users/diego/Desktop/app consuni/consuni/build/awesome_notifications/intermediates/library_manifest/debug/AndroidManifest.xml:14:9-16:40
+160-->[:awesome_notifications] /Users/diegoveneroso/consuni/build/awesome_notifications/intermediates/library_manifest/debug/AndroidManifest.xml:14:9-16:40
 161            android:name="me.carda.awesome_notifications.notifications.broadcastReceivers.ScheduledNotificationReceiver"
-161-->[:awesome_notifications] /Users/diego/Desktop/app consuni/consuni/build/awesome_notifications/intermediates/library_manifest/debug/AndroidManifest.xml:15:13-121
+161-->[:awesome_notifications] /Users/diegoveneroso/consuni/build/awesome_notifications/intermediates/library_manifest/debug/AndroidManifest.xml:15:13-121
 162            android:exported="false" />
-162-->[:awesome_notifications] /Users/diego/Desktop/app consuni/consuni/build/awesome_notifications/intermediates/library_manifest/debug/AndroidManifest.xml:16:13-37
+162-->[:awesome_notifications] /Users/diegoveneroso/consuni/build/awesome_notifications/intermediates/library_manifest/debug/AndroidManifest.xml:16:13-37
 163        <receiver
-163-->[:awesome_notifications] /Users/diego/Desktop/app consuni/consuni/build/awesome_notifications/intermediates/library_manifest/debug/AndroidManifest.xml:17:9-19:40
+163-->[:awesome_notifications] /Users/diegoveneroso/consuni/build/awesome_notifications/intermediates/library_manifest/debug/AndroidManifest.xml:17:9-19:40
 164            android:name="me.carda.awesome_notifications.notifications.broadcastReceivers.KeepOnTopActionReceiver"
-164-->[:awesome_notifications] /Users/diego/Desktop/app consuni/consuni/build/awesome_notifications/intermediates/library_manifest/debug/AndroidManifest.xml:18:13-115
+164-->[:awesome_notifications] /Users/diegoveneroso/consuni/build/awesome_notifications/intermediates/library_manifest/debug/AndroidManifest.xml:18:13-115
 165            android:exported="false" />
-165-->[:awesome_notifications] /Users/diego/Desktop/app consuni/consuni/build/awesome_notifications/intermediates/library_manifest/debug/AndroidManifest.xml:19:13-37
+165-->[:awesome_notifications] /Users/diegoveneroso/consuni/build/awesome_notifications/intermediates/library_manifest/debug/AndroidManifest.xml:19:13-37
 166        <receiver
-166-->[:awesome_notifications] /Users/diego/Desktop/app consuni/consuni/build/awesome_notifications/intermediates/library_manifest/debug/AndroidManifest.xml:20:9-33:20
+166-->[:awesome_notifications] /Users/diegoveneroso/consuni/build/awesome_notifications/intermediates/library_manifest/debug/AndroidManifest.xml:20:9-33:20
 167            android:name="me.carda.awesome_notifications.notifications.broadcastReceivers.RefreshSchedulesReceiver"
-167-->[:awesome_notifications] /Users/diego/Desktop/app consuni/consuni/build/awesome_notifications/intermediates/library_manifest/debug/AndroidManifest.xml:21:13-116
+167-->[:awesome_notifications] /Users/diegoveneroso/consuni/build/awesome_notifications/intermediates/library_manifest/debug/AndroidManifest.xml:21:13-116
 168            android:exported="false" >
-168-->[:awesome_notifications] /Users/diego/Desktop/app consuni/consuni/build/awesome_notifications/intermediates/library_manifest/debug/AndroidManifest.xml:22:13-37
+168-->[:awesome_notifications] /Users/diegoveneroso/consuni/build/awesome_notifications/intermediates/library_manifest/debug/AndroidManifest.xml:22:13-37
 169            <intent-filter>
-169-->[:awesome_notifications] /Users/diego/Desktop/app consuni/consuni/build/awesome_notifications/intermediates/library_manifest/debug/AndroidManifest.xml:23:13-32:29
+169-->[:awesome_notifications] /Users/diegoveneroso/consuni/build/awesome_notifications/intermediates/library_manifest/debug/AndroidManifest.xml:23:13-32:29
 170                <category android:name="android.intent.category.DEFAULT" />
-170-->[:awesome_notifications] /Users/diego/Desktop/app consuni/consuni/build/awesome_notifications/intermediates/library_manifest/debug/AndroidManifest.xml:24:17-76
-170-->[:awesome_notifications] /Users/diego/Desktop/app consuni/consuni/build/awesome_notifications/intermediates/library_manifest/debug/AndroidManifest.xml:24:27-73
+170-->[:awesome_notifications] /Users/diegoveneroso/consuni/build/awesome_notifications/intermediates/library_manifest/debug/AndroidManifest.xml:24:17-76
+170-->[:awesome_notifications] /Users/diegoveneroso/consuni/build/awesome_notifications/intermediates/library_manifest/debug/AndroidManifest.xml:24:27-73
 171
 172                <action android:name="android.intent.action.BOOT_COMPLETED" />
-172-->[:awesome_notifications] /Users/diego/Desktop/app consuni/consuni/build/awesome_notifications/intermediates/library_manifest/debug/AndroidManifest.xml:26:17-79
-172-->[:awesome_notifications] /Users/diego/Desktop/app consuni/consuni/build/awesome_notifications/intermediates/library_manifest/debug/AndroidManifest.xml:26:25-76
+172-->[:awesome_notifications] /Users/diegoveneroso/consuni/build/awesome_notifications/intermediates/library_manifest/debug/AndroidManifest.xml:26:17-79
+172-->[:awesome_notifications] /Users/diegoveneroso/consuni/build/awesome_notifications/intermediates/library_manifest/debug/AndroidManifest.xml:26:25-76
 173                <action android:name="android.intent.action.LOCKED_BOOT_COMPLETED" />
-173-->[:awesome_notifications] /Users/diego/Desktop/app consuni/consuni/build/awesome_notifications/intermediates/library_manifest/debug/AndroidManifest.xml:27:17-86
-173-->[:awesome_notifications] /Users/diego/Desktop/app consuni/consuni/build/awesome_notifications/intermediates/library_manifest/debug/AndroidManifest.xml:27:25-83
+173-->[:awesome_notifications] /Users/diegoveneroso/consuni/build/awesome_notifications/intermediates/library_manifest/debug/AndroidManifest.xml:27:17-86
+173-->[:awesome_notifications] /Users/diegoveneroso/consuni/build/awesome_notifications/intermediates/library_manifest/debug/AndroidManifest.xml:27:25-83
 174                <action android:name="android.intent.action.MY_PACKAGE_REPLACED" />
-174-->[:awesome_notifications] /Users/diego/Desktop/app consuni/consuni/build/awesome_notifications/intermediates/library_manifest/debug/AndroidManifest.xml:28:17-84
-174-->[:awesome_notifications] /Users/diego/Desktop/app consuni/consuni/build/awesome_notifications/intermediates/library_manifest/debug/AndroidManifest.xml:28:25-81
+174-->[:awesome_notifications] /Users/diegoveneroso/consuni/build/awesome_notifications/intermediates/library_manifest/debug/AndroidManifest.xml:28:17-84
+174-->[:awesome_notifications] /Users/diegoveneroso/consuni/build/awesome_notifications/intermediates/library_manifest/debug/AndroidManifest.xml:28:25-81
 175                <action android:name="android.intent.action.QUICKBOOT_POWERON" />
-175-->[:awesome_notifications] /Users/diego/Desktop/app consuni/consuni/build/awesome_notifications/intermediates/library_manifest/debug/AndroidManifest.xml:29:17-82
-175-->[:awesome_notifications] /Users/diego/Desktop/app consuni/consuni/build/awesome_notifications/intermediates/library_manifest/debug/AndroidManifest.xml:29:25-79
+175-->[:awesome_notifications] /Users/diegoveneroso/consuni/build/awesome_notifications/intermediates/library_manifest/debug/AndroidManifest.xml:29:17-82
+175-->[:awesome_notifications] /Users/diegoveneroso/consuni/build/awesome_notifications/intermediates/library_manifest/debug/AndroidManifest.xml:29:25-79
 176                <action android:name="com.htc.intent.action.QUICKBOOT_POWERON" />
-176-->[:awesome_notifications] /Users/diego/Desktop/app consuni/consuni/build/awesome_notifications/intermediates/library_manifest/debug/AndroidManifest.xml:30:17-82
-176-->[:awesome_notifications] /Users/diego/Desktop/app consuni/consuni/build/awesome_notifications/intermediates/library_manifest/debug/AndroidManifest.xml:30:25-79
+176-->[:awesome_notifications] /Users/diegoveneroso/consuni/build/awesome_notifications/intermediates/library_manifest/debug/AndroidManifest.xml:30:17-82
+176-->[:awesome_notifications] /Users/diegoveneroso/consuni/build/awesome_notifications/intermediates/library_manifest/debug/AndroidManifest.xml:30:25-79
 177                <action android:name="android.app.action.SCHEDULE_EXACT_ALARM_PERMISSION_STATE_CHANGED" />
-177-->[:awesome_notifications] /Users/diego/Desktop/app consuni/consuni/build/awesome_notifications/intermediates/library_manifest/debug/AndroidManifest.xml:31:17-107
-177-->[:awesome_notifications] /Users/diego/Desktop/app consuni/consuni/build/awesome_notifications/intermediates/library_manifest/debug/AndroidManifest.xml:31:25-104
+177-->[:awesome_notifications] /Users/diegoveneroso/consuni/build/awesome_notifications/intermediates/library_manifest/debug/AndroidManifest.xml:31:17-107
+177-->[:awesome_notifications] /Users/diegoveneroso/consuni/build/awesome_notifications/intermediates/library_manifest/debug/AndroidManifest.xml:31:25-104
 178            </intent-filter>
 179        </receiver>
 180
 181        <provider
-181-->[:open_file] /Users/diego/Desktop/app consuni/consuni/build/open_file/intermediates/library_manifest/debug/AndroidManifest.xml:12:9-21:20
+181-->[:open_file] /Users/diegoveneroso/consuni/build/open_file/intermediates/library_manifest/debug/AndroidManifest.xml:12:9-21:20
 182            android:name="com.crazecoder.openfile.FileProvider"
-182-->[:open_file] /Users/diego/Desktop/app consuni/consuni/build/open_file/intermediates/library_manifest/debug/AndroidManifest.xml:13:13-64
-183            android:authorities="ga.consuni.consuni_mobile.fileProvider.com.crazecoder.openfile"
-183-->[:open_file] /Users/diego/Desktop/app consuni/consuni/build/open_file/intermediates/library_manifest/debug/AndroidManifest.xml:14:13-88
+182-->[:open_file] /Users/diegoveneroso/consuni/build/open_file/intermediates/library_manifest/debug/AndroidManifest.xml:13:13-64
+183            android:authorities="ga.consuni.consuni.fileProvider.com.crazecoder.openfile"
+183-->[:open_file] /Users/diegoveneroso/consuni/build/open_file/intermediates/library_manifest/debug/AndroidManifest.xml:14:13-88
 184            android:exported="false"
-184-->[:open_file] /Users/diego/Desktop/app consuni/consuni/build/open_file/intermediates/library_manifest/debug/AndroidManifest.xml:15:13-37
+184-->[:open_file] /Users/diegoveneroso/consuni/build/open_file/intermediates/library_manifest/debug/AndroidManifest.xml:15:13-37
 185            android:grantUriPermissions="true" >
-185-->[:open_file] /Users/diego/Desktop/app consuni/consuni/build/open_file/intermediates/library_manifest/debug/AndroidManifest.xml:16:13-47
+185-->[:open_file] /Users/diegoveneroso/consuni/build/open_file/intermediates/library_manifest/debug/AndroidManifest.xml:16:13-47
 186            <meta-data
-186-->[:image_picker_android] /Users/diego/Desktop/app consuni/consuni/build/image_picker_android/intermediates/library_manifest/debug/AndroidManifest.xml:13:13-15:75
+186-->[:image_picker_android] /Users/diegoveneroso/consuni/build/image_picker_android/intermediates/library_manifest/debug/AndroidManifest.xml:13:13-15:75
 187                android:name="android.support.FILE_PROVIDER_PATHS"
-187-->[:image_picker_android] /Users/diego/Desktop/app consuni/consuni/build/image_picker_android/intermediates/library_manifest/debug/AndroidManifest.xml:14:17-67
+187-->[:image_picker_android] /Users/diegoveneroso/consuni/build/image_picker_android/intermediates/library_manifest/debug/AndroidManifest.xml:14:17-67
 188                android:resource="@xml/filepaths" />
-188-->[:image_picker_android] /Users/diego/Desktop/app consuni/consuni/build/image_picker_android/intermediates/library_manifest/debug/AndroidManifest.xml:15:17-72
+188-->[:image_picker_android] /Users/diegoveneroso/consuni/build/image_picker_android/intermediates/library_manifest/debug/AndroidManifest.xml:15:17-72
 189        </provider>
 190
 191        <receiver android:name="com.dexterous.flutterlocalnotifications.ScheduledNotificationReceiver" />
-191-->[:flutter_local_notifications] /Users/diego/Desktop/app consuni/consuni/build/flutter_local_notifications/intermediates/library_manifest/debug/AndroidManifest.xml:12:9-106
-191-->[:flutter_local_notifications] /Users/diego/Desktop/app consuni/consuni/build/flutter_local_notifications/intermediates/library_manifest/debug/AndroidManifest.xml:12:19-103
+191-->[:flutter_local_notifications] /Users/diegoveneroso/consuni/build/flutter_local_notifications/intermediates/library_manifest/debug/AndroidManifest.xml:12:9-106
+191-->[:flutter_local_notifications] /Users/diegoveneroso/consuni/build/flutter_local_notifications/intermediates/library_manifest/debug/AndroidManifest.xml:12:19-103
 192        <receiver android:name="com.dexterous.flutterlocalnotifications.ScheduledNotificationBootReceiver" >
-192-->[:flutter_local_notifications] /Users/diego/Desktop/app consuni/consuni/build/flutter_local_notifications/intermediates/library_manifest/debug/AndroidManifest.xml:13:9-20:20
-192-->[:flutter_local_notifications] /Users/diego/Desktop/app consuni/consuni/build/flutter_local_notifications/intermediates/library_manifest/debug/AndroidManifest.xml:13:19-107
+192-->[:flutter_local_notifications] /Users/diegoveneroso/consuni/build/flutter_local_notifications/intermediates/library_manifest/debug/AndroidManifest.xml:13:9-20:20
+192-->[:flutter_local_notifications] /Users/diegoveneroso/consuni/build/flutter_local_notifications/intermediates/library_manifest/debug/AndroidManifest.xml:13:19-107
 193            <intent-filter>
-193-->[:flutter_local_notifications] /Users/diego/Desktop/app consuni/consuni/build/flutter_local_notifications/intermediates/library_manifest/debug/AndroidManifest.xml:14:13-19:29
+193-->[:flutter_local_notifications] /Users/diegoveneroso/consuni/build/flutter_local_notifications/intermediates/library_manifest/debug/AndroidManifest.xml:14:13-19:29
 194                <action android:name="android.intent.action.BOOT_COMPLETED" />
-194-->[:awesome_notifications] /Users/diego/Desktop/app consuni/consuni/build/awesome_notifications/intermediates/library_manifest/debug/AndroidManifest.xml:26:17-79
-194-->[:awesome_notifications] /Users/diego/Desktop/app consuni/consuni/build/awesome_notifications/intermediates/library_manifest/debug/AndroidManifest.xml:26:25-76
+194-->[:awesome_notifications] /Users/diegoveneroso/consuni/build/awesome_notifications/intermediates/library_manifest/debug/AndroidManifest.xml:26:17-79
+194-->[:awesome_notifications] /Users/diegoveneroso/consuni/build/awesome_notifications/intermediates/library_manifest/debug/AndroidManifest.xml:26:25-76
 195                <action android:name="android.intent.action.MY_PACKAGE_REPLACED" />
-195-->[:awesome_notifications] /Users/diego/Desktop/app consuni/consuni/build/awesome_notifications/intermediates/library_manifest/debug/AndroidManifest.xml:28:17-84
-195-->[:awesome_notifications] /Users/diego/Desktop/app consuni/consuni/build/awesome_notifications/intermediates/library_manifest/debug/AndroidManifest.xml:28:25-81
+195-->[:awesome_notifications] /Users/diegoveneroso/consuni/build/awesome_notifications/intermediates/library_manifest/debug/AndroidManifest.xml:28:17-84
+195-->[:awesome_notifications] /Users/diegoveneroso/consuni/build/awesome_notifications/intermediates/library_manifest/debug/AndroidManifest.xml:28:25-81
 196                <action android:name="android.intent.action.QUICKBOOT_POWERON" />
-196-->[:awesome_notifications] /Users/diego/Desktop/app consuni/consuni/build/awesome_notifications/intermediates/library_manifest/debug/AndroidManifest.xml:29:17-82
-196-->[:awesome_notifications] /Users/diego/Desktop/app consuni/consuni/build/awesome_notifications/intermediates/library_manifest/debug/AndroidManifest.xml:29:25-79
+196-->[:awesome_notifications] /Users/diegoveneroso/consuni/build/awesome_notifications/intermediates/library_manifest/debug/AndroidManifest.xml:29:17-82
+196-->[:awesome_notifications] /Users/diegoveneroso/consuni/build/awesome_notifications/intermediates/library_manifest/debug/AndroidManifest.xml:29:25-79
 197                <action android:name="com.htc.intent.action.QUICKBOOT_POWERON" />
-197-->[:awesome_notifications] /Users/diego/Desktop/app consuni/consuni/build/awesome_notifications/intermediates/library_manifest/debug/AndroidManifest.xml:30:17-82
-197-->[:awesome_notifications] /Users/diego/Desktop/app consuni/consuni/build/awesome_notifications/intermediates/library_manifest/debug/AndroidManifest.xml:30:25-79
+197-->[:awesome_notifications] /Users/diegoveneroso/consuni/build/awesome_notifications/intermediates/library_manifest/debug/AndroidManifest.xml:30:17-82
+197-->[:awesome_notifications] /Users/diegoveneroso/consuni/build/awesome_notifications/intermediates/library_manifest/debug/AndroidManifest.xml:30:25-79
 198            </intent-filter>
 199        </receiver>
 200
 201        <activity
-201-->[:url_launcher_android] /Users/diego/Desktop/app consuni/consuni/build/url_launcher_android/intermediates/library_manifest/debug/AndroidManifest.xml:8:9-11:74
+201-->[:url_launcher_android] /Users/diegoveneroso/consuni/build/url_launcher_android/intermediates/library_manifest/debug/AndroidManifest.xml:8:9-11:74
 202            android:name="io.flutter.plugins.urllauncher.WebViewActivity"
-202-->[:url_launcher_android] /Users/diego/Desktop/app consuni/consuni/build/url_launcher_android/intermediates/library_manifest/debug/AndroidManifest.xml:9:13-74
+202-->[:url_launcher_android] /Users/diegoveneroso/consuni/build/url_launcher_android/intermediates/library_manifest/debug/AndroidManifest.xml:9:13-74
 203            android:exported="false"
-203-->[:url_launcher_android] /Users/diego/Desktop/app consuni/consuni/build/url_launcher_android/intermediates/library_manifest/debug/AndroidManifest.xml:10:13-37
+203-->[:url_launcher_android] /Users/diegoveneroso/consuni/build/url_launcher_android/intermediates/library_manifest/debug/AndroidManifest.xml:10:13-37
 204            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" />
-204-->[:url_launcher_android] /Users/diego/Desktop/app consuni/consuni/build/url_launcher_android/intermediates/library_manifest/debug/AndroidManifest.xml:11:13-71
+204-->[:url_launcher_android] /Users/diegoveneroso/consuni/build/url_launcher_android/intermediates/library_manifest/debug/AndroidManifest.xml:11:13-71
 205
 206        <uses-library
-206-->[androidx.window:window:1.0.0-beta04] /Users/diego/.gradle/caches/transforms-2/files-2.1/cea45e25bbe77c9713c39e234ccfd7bd/jetified-window-1.0.0-beta04/AndroidManifest.xml:25:9-27:40
+206-->[androidx.window:window:1.0.0-beta04] /Users/diegoveneroso/.gradle/caches/transforms-2/files-2.1/cea45e25bbe77c9713c39e234ccfd7bd/jetified-window-1.0.0-beta04/AndroidManifest.xml:25:9-27:40
 207            android:name="androidx.window.extensions"
-207-->[androidx.window:window:1.0.0-beta04] /Users/diego/.gradle/caches/transforms-2/files-2.1/cea45e25bbe77c9713c39e234ccfd7bd/jetified-window-1.0.0-beta04/AndroidManifest.xml:26:13-54
+207-->[androidx.window:window:1.0.0-beta04] /Users/diegoveneroso/.gradle/caches/transforms-2/files-2.1/cea45e25bbe77c9713c39e234ccfd7bd/jetified-window-1.0.0-beta04/AndroidManifest.xml:26:13-54
 208            android:required="false" />
-208-->[androidx.window:window:1.0.0-beta04] /Users/diego/.gradle/caches/transforms-2/files-2.1/cea45e25bbe77c9713c39e234ccfd7bd/jetified-window-1.0.0-beta04/AndroidManifest.xml:27:13-37
+208-->[androidx.window:window:1.0.0-beta04] /Users/diegoveneroso/.gradle/caches/transforms-2/files-2.1/cea45e25bbe77c9713c39e234ccfd7bd/jetified-window-1.0.0-beta04/AndroidManifest.xml:27:13-37
 209        <uses-library
-209-->[androidx.window:window:1.0.0-beta04] /Users/diego/.gradle/caches/transforms-2/files-2.1/cea45e25bbe77c9713c39e234ccfd7bd/jetified-window-1.0.0-beta04/AndroidManifest.xml:28:9-30:40
+209-->[androidx.window:window:1.0.0-beta04] /Users/diegoveneroso/.gradle/caches/transforms-2/files-2.1/cea45e25bbe77c9713c39e234ccfd7bd/jetified-window-1.0.0-beta04/AndroidManifest.xml:28:9-30:40
 210            android:name="androidx.window.sidecar"
-210-->[androidx.window:window:1.0.0-beta04] /Users/diego/.gradle/caches/transforms-2/files-2.1/cea45e25bbe77c9713c39e234ccfd7bd/jetified-window-1.0.0-beta04/AndroidManifest.xml:29:13-51
+210-->[androidx.window:window:1.0.0-beta04] /Users/diegoveneroso/.gradle/caches/transforms-2/files-2.1/cea45e25bbe77c9713c39e234ccfd7bd/jetified-window-1.0.0-beta04/AndroidManifest.xml:29:13-51
 211            android:required="false" />
-211-->[androidx.window:window:1.0.0-beta04] /Users/diego/.gradle/caches/transforms-2/files-2.1/cea45e25bbe77c9713c39e234ccfd7bd/jetified-window-1.0.0-beta04/AndroidManifest.xml:30:13-37
+211-->[androidx.window:window:1.0.0-beta04] /Users/diegoveneroso/.gradle/caches/transforms-2/files-2.1/cea45e25bbe77c9713c39e234ccfd7bd/jetified-window-1.0.0-beta04/AndroidManifest.xml:30:13-37
 212
 213        <receiver
-213-->[com.google.firebase:firebase-messaging:23.0.5] /Users/diego/.gradle/caches/transforms-2/files-2.1/1803d3b63472383bf4581973eb65830c/jetified-firebase-messaging-23.0.5/AndroidManifest.xml:31:9-38:20
+213-->[com.google.firebase:firebase-messaging:23.0.5] /Users/diegoveneroso/.gradle/caches/transforms-2/files-2.1/1803d3b63472383bf4581973eb65830c/jetified-firebase-messaging-23.0.5/AndroidManifest.xml:31:9-38:20
 214            android:name="com.google.firebase.iid.FirebaseInstanceIdReceiver"
-214-->[com.google.firebase:firebase-messaging:23.0.5] /Users/diego/.gradle/caches/transforms-2/files-2.1/1803d3b63472383bf4581973eb65830c/jetified-firebase-messaging-23.0.5/AndroidManifest.xml:32:13-78
+214-->[com.google.firebase:firebase-messaging:23.0.5] /Users/diegoveneroso/.gradle/caches/transforms-2/files-2.1/1803d3b63472383bf4581973eb65830c/jetified-firebase-messaging-23.0.5/AndroidManifest.xml:32:13-78
 215            android:exported="true"
-215-->[com.google.firebase:firebase-messaging:23.0.5] /Users/diego/.gradle/caches/transforms-2/files-2.1/1803d3b63472383bf4581973eb65830c/jetified-firebase-messaging-23.0.5/AndroidManifest.xml:33:13-36
+215-->[com.google.firebase:firebase-messaging:23.0.5] /Users/diegoveneroso/.gradle/caches/transforms-2/files-2.1/1803d3b63472383bf4581973eb65830c/jetified-firebase-messaging-23.0.5/AndroidManifest.xml:33:13-36
 216            android:permission="com.google.android.c2dm.permission.SEND" >
-216-->[com.google.firebase:firebase-messaging:23.0.5] /Users/diego/.gradle/caches/transforms-2/files-2.1/1803d3b63472383bf4581973eb65830c/jetified-firebase-messaging-23.0.5/AndroidManifest.xml:34:13-73
+216-->[com.google.firebase:firebase-messaging:23.0.5] /Users/diegoveneroso/.gradle/caches/transforms-2/files-2.1/1803d3b63472383bf4581973eb65830c/jetified-firebase-messaging-23.0.5/AndroidManifest.xml:34:13-73
 217            <intent-filter>
-217-->[:firebase_messaging] /Users/diego/Desktop/app consuni/consuni/build/firebase_messaging/intermediates/library_manifest/debug/AndroidManifest.xml:28:13-30:29
+217-->[:firebase_messaging] /Users/diegoveneroso/consuni/build/firebase_messaging/intermediates/library_manifest/debug/AndroidManifest.xml:28:13-30:29
 218                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
-218-->[:firebase_messaging] /Users/diego/Desktop/app consuni/consuni/build/firebase_messaging/intermediates/library_manifest/debug/AndroidManifest.xml:29:17-81
-218-->[:firebase_messaging] /Users/diego/Desktop/app consuni/consuni/build/firebase_messaging/intermediates/library_manifest/debug/AndroidManifest.xml:29:25-78
+218-->[:firebase_messaging] /Users/diegoveneroso/consuni/build/firebase_messaging/intermediates/library_manifest/debug/AndroidManifest.xml:29:17-81
+218-->[:firebase_messaging] /Users/diegoveneroso/consuni/build/firebase_messaging/intermediates/library_manifest/debug/AndroidManifest.xml:29:25-78
 219            </intent-filter>
 220        </receiver>
 221        <!--
@@ -405,118 +405,118 @@
 223             but set to not exported to explicitly avoid allowing another app to call it.
 224        -->
 225        <service
-225-->[com.google.firebase:firebase-messaging:23.0.5] /Users/diego/.gradle/caches/transforms-2/files-2.1/1803d3b63472383bf4581973eb65830c/jetified-firebase-messaging-23.0.5/AndroidManifest.xml:44:9-51:19
+225-->[com.google.firebase:firebase-messaging:23.0.5] /Users/diegoveneroso/.gradle/caches/transforms-2/files-2.1/1803d3b63472383bf4581973eb65830c/jetified-firebase-messaging-23.0.5/AndroidManifest.xml:44:9-51:19
 226            android:name="com.google.firebase.messaging.FirebaseMessagingService"
-226-->[com.google.firebase:firebase-messaging:23.0.5] /Users/diego/.gradle/caches/transforms-2/files-2.1/1803d3b63472383bf4581973eb65830c/jetified-firebase-messaging-23.0.5/AndroidManifest.xml:45:13-82
+226-->[com.google.firebase:firebase-messaging:23.0.5] /Users/diegoveneroso/.gradle/caches/transforms-2/files-2.1/1803d3b63472383bf4581973eb65830c/jetified-firebase-messaging-23.0.5/AndroidManifest.xml:45:13-82
 227            android:directBootAware="true"
-227-->[com.google.firebase:firebase-messaging:23.0.5] /Users/diego/.gradle/caches/transforms-2/files-2.1/1803d3b63472383bf4581973eb65830c/jetified-firebase-messaging-23.0.5/AndroidManifest.xml:46:13-43
+227-->[com.google.firebase:firebase-messaging:23.0.5] /Users/diegoveneroso/.gradle/caches/transforms-2/files-2.1/1803d3b63472383bf4581973eb65830c/jetified-firebase-messaging-23.0.5/AndroidManifest.xml:46:13-43
 228            android:exported="false" >
-228-->[com.google.firebase:firebase-messaging:23.0.5] /Users/diego/.gradle/caches/transforms-2/files-2.1/1803d3b63472383bf4581973eb65830c/jetified-firebase-messaging-23.0.5/AndroidManifest.xml:47:13-37
+228-->[com.google.firebase:firebase-messaging:23.0.5] /Users/diegoveneroso/.gradle/caches/transforms-2/files-2.1/1803d3b63472383bf4581973eb65830c/jetified-firebase-messaging-23.0.5/AndroidManifest.xml:47:13-37
 229            <intent-filter android:priority="-500" >
-229-->[:firebase_messaging] /Users/diego/Desktop/app consuni/consuni/build/firebase_messaging/intermediates/library_manifest/debug/AndroidManifest.xml:19:13-21:29
+229-->[:firebase_messaging] /Users/diegoveneroso/consuni/build/firebase_messaging/intermediates/library_manifest/debug/AndroidManifest.xml:19:13-21:29
 230                <action android:name="com.google.firebase.MESSAGING_EVENT" />
-230-->[:firebase_messaging] /Users/diego/Desktop/app consuni/consuni/build/firebase_messaging/intermediates/library_manifest/debug/AndroidManifest.xml:20:17-78
-230-->[:firebase_messaging] /Users/diego/Desktop/app consuni/consuni/build/firebase_messaging/intermediates/library_manifest/debug/AndroidManifest.xml:20:25-75
+230-->[:firebase_messaging] /Users/diegoveneroso/consuni/build/firebase_messaging/intermediates/library_manifest/debug/AndroidManifest.xml:20:17-78
+230-->[:firebase_messaging] /Users/diegoveneroso/consuni/build/firebase_messaging/intermediates/library_manifest/debug/AndroidManifest.xml:20:25-75
 231            </intent-filter>
 232        </service>
 233        <service
-233-->[com.google.android.datatransport:transport-backend-cct:3.1.5] /Users/diego/.gradle/caches/transforms-2/files-2.1/02ff7f3f252eadac8710bf3b888f7d79/jetified-transport-backend-cct-3.1.5/AndroidManifest.xml:29:9-35:19
+233-->[com.google.android.datatransport:transport-backend-cct:3.1.5] /Users/diegoveneroso/.gradle/caches/transforms-2/files-2.1/02ff7f3f252eadac8710bf3b888f7d79/jetified-transport-backend-cct-3.1.5/AndroidManifest.xml:29:9-35:19
 234            android:name="com.google.android.datatransport.runtime.backends.TransportBackendDiscovery"
-234-->[com.google.android.datatransport:transport-backend-cct:3.1.5] /Users/diego/.gradle/caches/transforms-2/files-2.1/02ff7f3f252eadac8710bf3b888f7d79/jetified-transport-backend-cct-3.1.5/AndroidManifest.xml:30:13-103
+234-->[com.google.android.datatransport:transport-backend-cct:3.1.5] /Users/diegoveneroso/.gradle/caches/transforms-2/files-2.1/02ff7f3f252eadac8710bf3b888f7d79/jetified-transport-backend-cct-3.1.5/AndroidManifest.xml:30:13-103
 235            android:exported="false" >
-235-->[com.google.android.datatransport:transport-backend-cct:3.1.5] /Users/diego/.gradle/caches/transforms-2/files-2.1/02ff7f3f252eadac8710bf3b888f7d79/jetified-transport-backend-cct-3.1.5/AndroidManifest.xml:31:13-37
+235-->[com.google.android.datatransport:transport-backend-cct:3.1.5] /Users/diegoveneroso/.gradle/caches/transforms-2/files-2.1/02ff7f3f252eadac8710bf3b888f7d79/jetified-transport-backend-cct-3.1.5/AndroidManifest.xml:31:13-37
 236            <meta-data
-236-->[com.google.android.datatransport:transport-backend-cct:3.1.5] /Users/diego/.gradle/caches/transforms-2/files-2.1/02ff7f3f252eadac8710bf3b888f7d79/jetified-transport-backend-cct-3.1.5/AndroidManifest.xml:32:13-34:39
+236-->[com.google.android.datatransport:transport-backend-cct:3.1.5] /Users/diegoveneroso/.gradle/caches/transforms-2/files-2.1/02ff7f3f252eadac8710bf3b888f7d79/jetified-transport-backend-cct-3.1.5/AndroidManifest.xml:32:13-34:39
 237                android:name="backend:com.google.android.datatransport.cct.CctBackendFactory"
-237-->[com.google.android.datatransport:transport-backend-cct:3.1.5] /Users/diego/.gradle/caches/transforms-2/files-2.1/02ff7f3f252eadac8710bf3b888f7d79/jetified-transport-backend-cct-3.1.5/AndroidManifest.xml:33:17-94
+237-->[com.google.android.datatransport:transport-backend-cct:3.1.5] /Users/diegoveneroso/.gradle/caches/transforms-2/files-2.1/02ff7f3f252eadac8710bf3b888f7d79/jetified-transport-backend-cct-3.1.5/AndroidManifest.xml:33:17-94
 238                android:value="cct" />
-238-->[com.google.android.datatransport:transport-backend-cct:3.1.5] /Users/diego/.gradle/caches/transforms-2/files-2.1/02ff7f3f252eadac8710bf3b888f7d79/jetified-transport-backend-cct-3.1.5/AndroidManifest.xml:34:17-36
+238-->[com.google.android.datatransport:transport-backend-cct:3.1.5] /Users/diegoveneroso/.gradle/caches/transforms-2/files-2.1/02ff7f3f252eadac8710bf3b888f7d79/jetified-transport-backend-cct-3.1.5/AndroidManifest.xml:34:17-36
 239        </service>
 240        <service
-240-->[com.google.android.datatransport:transport-runtime:3.1.5] /Users/diego/.gradle/caches/transforms-2/files-2.1/afae4e8b6bafa4cc6aa50bb96cdf8e81/jetified-transport-runtime-3.1.5/AndroidManifest.xml:26:9-30:19
+240-->[com.google.android.datatransport:transport-runtime:3.1.5] /Users/diegoveneroso/.gradle/caches/transforms-2/files-2.1/afae4e8b6bafa4cc6aa50bb96cdf8e81/jetified-transport-runtime-3.1.5/AndroidManifest.xml:26:9-30:19
 241            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService"
-241-->[com.google.android.datatransport:transport-runtime:3.1.5] /Users/diego/.gradle/caches/transforms-2/files-2.1/afae4e8b6bafa4cc6aa50bb96cdf8e81/jetified-transport-runtime-3.1.5/AndroidManifest.xml:27:13-117
+241-->[com.google.android.datatransport:transport-runtime:3.1.5] /Users/diegoveneroso/.gradle/caches/transforms-2/files-2.1/afae4e8b6bafa4cc6aa50bb96cdf8e81/jetified-transport-runtime-3.1.5/AndroidManifest.xml:27:13-117
 242            android:exported="false"
-242-->[com.google.android.datatransport:transport-runtime:3.1.5] /Users/diego/.gradle/caches/transforms-2/files-2.1/afae4e8b6bafa4cc6aa50bb96cdf8e81/jetified-transport-runtime-3.1.5/AndroidManifest.xml:28:13-37
+242-->[com.google.android.datatransport:transport-runtime:3.1.5] /Users/diegoveneroso/.gradle/caches/transforms-2/files-2.1/afae4e8b6bafa4cc6aa50bb96cdf8e81/jetified-transport-runtime-3.1.5/AndroidManifest.xml:28:13-37
 243            android:permission="android.permission.BIND_JOB_SERVICE" >
-243-->[com.google.android.datatransport:transport-runtime:3.1.5] /Users/diego/.gradle/caches/transforms-2/files-2.1/afae4e8b6bafa4cc6aa50bb96cdf8e81/jetified-transport-runtime-3.1.5/AndroidManifest.xml:29:13-69
+243-->[com.google.android.datatransport:transport-runtime:3.1.5] /Users/diegoveneroso/.gradle/caches/transforms-2/files-2.1/afae4e8b6bafa4cc6aa50bb96cdf8e81/jetified-transport-runtime-3.1.5/AndroidManifest.xml:29:13-69
 244        </service>
 245
 246        <receiver
-246-->[com.google.android.datatransport:transport-runtime:3.1.5] /Users/diego/.gradle/caches/transforms-2/files-2.1/afae4e8b6bafa4cc6aa50bb96cdf8e81/jetified-transport-runtime-3.1.5/AndroidManifest.xml:32:9-34:40
+246-->[com.google.android.datatransport:transport-runtime:3.1.5] /Users/diegoveneroso/.gradle/caches/transforms-2/files-2.1/afae4e8b6bafa4cc6aa50bb96cdf8e81/jetified-transport-runtime-3.1.5/AndroidManifest.xml:32:9-34:40
 247            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver"
-247-->[com.google.android.datatransport:transport-runtime:3.1.5] /Users/diego/.gradle/caches/transforms-2/files-2.1/afae4e8b6bafa4cc6aa50bb96cdf8e81/jetified-transport-runtime-3.1.5/AndroidManifest.xml:33:13-132
+247-->[com.google.android.datatransport:transport-runtime:3.1.5] /Users/diegoveneroso/.gradle/caches/transforms-2/files-2.1/afae4e8b6bafa4cc6aa50bb96cdf8e81/jetified-transport-runtime-3.1.5/AndroidManifest.xml:33:13-132
 248            android:exported="false" />
-248-->[com.google.android.datatransport:transport-runtime:3.1.5] /Users/diego/.gradle/caches/transforms-2/files-2.1/afae4e8b6bafa4cc6aa50bb96cdf8e81/jetified-transport-runtime-3.1.5/AndroidManifest.xml:34:13-37
+248-->[com.google.android.datatransport:transport-runtime:3.1.5] /Users/diegoveneroso/.gradle/caches/transforms-2/files-2.1/afae4e8b6bafa4cc6aa50bb96cdf8e81/jetified-transport-runtime-3.1.5/AndroidManifest.xml:34:13-37
 249
 250        <provider
-250-->[com.google.firebase:firebase-common:20.1.1] /Users/diego/.gradle/caches/transforms-2/files-2.1/0f67b2d2737c37bf1274c8f8df4996b1/jetified-firebase-common-20.1.1/AndroidManifest.xml:26:9-31:39
+250-->[com.google.firebase:firebase-common:20.1.1] /Users/diegoveneroso/.gradle/caches/transforms-2/files-2.1/0f67b2d2737c37bf1274c8f8df4996b1/jetified-firebase-common-20.1.1/AndroidManifest.xml:26:9-31:39
 251            android:name="com.google.firebase.provider.FirebaseInitProvider"
-251-->[com.google.firebase:firebase-common:20.1.1] /Users/diego/.gradle/caches/transforms-2/files-2.1/0f67b2d2737c37bf1274c8f8df4996b1/jetified-firebase-common-20.1.1/AndroidManifest.xml:27:13-77
-252            android:authorities="ga.consuni.consuni_mobile.firebaseinitprovider"
-252-->[com.google.firebase:firebase-common:20.1.1] /Users/diego/.gradle/caches/transforms-2/files-2.1/0f67b2d2737c37bf1274c8f8df4996b1/jetified-firebase-common-20.1.1/AndroidManifest.xml:28:13-72
+251-->[com.google.firebase:firebase-common:20.1.1] /Users/diegoveneroso/.gradle/caches/transforms-2/files-2.1/0f67b2d2737c37bf1274c8f8df4996b1/jetified-firebase-common-20.1.1/AndroidManifest.xml:27:13-77
+252            android:authorities="ga.consuni.consuni.firebaseinitprovider"
+252-->[com.google.firebase:firebase-common:20.1.1] /Users/diegoveneroso/.gradle/caches/transforms-2/files-2.1/0f67b2d2737c37bf1274c8f8df4996b1/jetified-firebase-common-20.1.1/AndroidManifest.xml:28:13-72
 253            android:directBootAware="true"
-253-->[com.google.firebase:firebase-common:20.1.1] /Users/diego/.gradle/caches/transforms-2/files-2.1/0f67b2d2737c37bf1274c8f8df4996b1/jetified-firebase-common-20.1.1/AndroidManifest.xml:29:13-43
+253-->[com.google.firebase:firebase-common:20.1.1] /Users/diegoveneroso/.gradle/caches/transforms-2/files-2.1/0f67b2d2737c37bf1274c8f8df4996b1/jetified-firebase-common-20.1.1/AndroidManifest.xml:29:13-43
 254            android:exported="false"
-254-->[com.google.firebase:firebase-common:20.1.1] /Users/diego/.gradle/caches/transforms-2/files-2.1/0f67b2d2737c37bf1274c8f8df4996b1/jetified-firebase-common-20.1.1/AndroidManifest.xml:30:13-37
+254-->[com.google.firebase:firebase-common:20.1.1] /Users/diegoveneroso/.gradle/caches/transforms-2/files-2.1/0f67b2d2737c37bf1274c8f8df4996b1/jetified-firebase-common-20.1.1/AndroidManifest.xml:30:13-37
 255            android:initOrder="100" />
-255-->[com.google.firebase:firebase-common:20.1.1] /Users/diego/.gradle/caches/transforms-2/files-2.1/0f67b2d2737c37bf1274c8f8df4996b1/jetified-firebase-common-20.1.1/AndroidManifest.xml:31:13-36
+255-->[com.google.firebase:firebase-common:20.1.1] /Users/diegoveneroso/.gradle/caches/transforms-2/files-2.1/0f67b2d2737c37bf1274c8f8df4996b1/jetified-firebase-common-20.1.1/AndroidManifest.xml:31:13-36
 256
 257        <receiver
-257-->[com.google.android.gms:play-services-measurement:21.0.0] /Users/diego/.gradle/caches/transforms-2/files-2.1/3b1d1e5571522f703c316a9309413648/jetified-play-services-measurement-21.0.0/AndroidManifest.xml:29:9-33:20
+257-->[com.google.android.gms:play-services-measurement:21.0.0] /Users/diegoveneroso/.gradle/caches/transforms-2/files-2.1/3b1d1e5571522f703c316a9309413648/jetified-play-services-measurement-21.0.0/AndroidManifest.xml:29:9-33:20
 258            android:name="com.google.android.gms.measurement.AppMeasurementReceiver"
-258-->[com.google.android.gms:play-services-measurement:21.0.0] /Users/diego/.gradle/caches/transforms-2/files-2.1/3b1d1e5571522f703c316a9309413648/jetified-play-services-measurement-21.0.0/AndroidManifest.xml:30:13-85
+258-->[com.google.android.gms:play-services-measurement:21.0.0] /Users/diegoveneroso/.gradle/caches/transforms-2/files-2.1/3b1d1e5571522f703c316a9309413648/jetified-play-services-measurement-21.0.0/AndroidManifest.xml:30:13-85
 259            android:enabled="true"
-259-->[com.google.android.gms:play-services-measurement:21.0.0] /Users/diego/.gradle/caches/transforms-2/files-2.1/3b1d1e5571522f703c316a9309413648/jetified-play-services-measurement-21.0.0/AndroidManifest.xml:31:13-35
+259-->[com.google.android.gms:play-services-measurement:21.0.0] /Users/diegoveneroso/.gradle/caches/transforms-2/files-2.1/3b1d1e5571522f703c316a9309413648/jetified-play-services-measurement-21.0.0/AndroidManifest.xml:31:13-35
 260            android:exported="false" >
-260-->[com.google.android.gms:play-services-measurement:21.0.0] /Users/diego/.gradle/caches/transforms-2/files-2.1/3b1d1e5571522f703c316a9309413648/jetified-play-services-measurement-21.0.0/AndroidManifest.xml:32:13-37
+260-->[com.google.android.gms:play-services-measurement:21.0.0] /Users/diegoveneroso/.gradle/caches/transforms-2/files-2.1/3b1d1e5571522f703c316a9309413648/jetified-play-services-measurement-21.0.0/AndroidManifest.xml:32:13-37
 261        </receiver>
 262
 263        <service
-263-->[com.google.android.gms:play-services-measurement:21.0.0] /Users/diego/.gradle/caches/transforms-2/files-2.1/3b1d1e5571522f703c316a9309413648/jetified-play-services-measurement-21.0.0/AndroidManifest.xml:35:9-38:40
+263-->[com.google.android.gms:play-services-measurement:21.0.0] /Users/diegoveneroso/.gradle/caches/transforms-2/files-2.1/3b1d1e5571522f703c316a9309413648/jetified-play-services-measurement-21.0.0/AndroidManifest.xml:35:9-38:40
 264            android:name="com.google.android.gms.measurement.AppMeasurementService"
-264-->[com.google.android.gms:play-services-measurement:21.0.0] /Users/diego/.gradle/caches/transforms-2/files-2.1/3b1d1e5571522f703c316a9309413648/jetified-play-services-measurement-21.0.0/AndroidManifest.xml:36:13-84
+264-->[com.google.android.gms:play-services-measurement:21.0.0] /Users/diegoveneroso/.gradle/caches/transforms-2/files-2.1/3b1d1e5571522f703c316a9309413648/jetified-play-services-measurement-21.0.0/AndroidManifest.xml:36:13-84
 265            android:enabled="true"
-265-->[com.google.android.gms:play-services-measurement:21.0.0] /Users/diego/.gradle/caches/transforms-2/files-2.1/3b1d1e5571522f703c316a9309413648/jetified-play-services-measurement-21.0.0/AndroidManifest.xml:37:13-35
+265-->[com.google.android.gms:play-services-measurement:21.0.0] /Users/diegoveneroso/.gradle/caches/transforms-2/files-2.1/3b1d1e5571522f703c316a9309413648/jetified-play-services-measurement-21.0.0/AndroidManifest.xml:37:13-35
 266            android:exported="false" />
-266-->[com.google.android.gms:play-services-measurement:21.0.0] /Users/diego/.gradle/caches/transforms-2/files-2.1/3b1d1e5571522f703c316a9309413648/jetified-play-services-measurement-21.0.0/AndroidManifest.xml:38:13-37
+266-->[com.google.android.gms:play-services-measurement:21.0.0] /Users/diegoveneroso/.gradle/caches/transforms-2/files-2.1/3b1d1e5571522f703c316a9309413648/jetified-play-services-measurement-21.0.0/AndroidManifest.xml:38:13-37
 267        <service
-267-->[com.google.android.gms:play-services-measurement:21.0.0] /Users/diego/.gradle/caches/transforms-2/files-2.1/3b1d1e5571522f703c316a9309413648/jetified-play-services-measurement-21.0.0/AndroidManifest.xml:39:9-43:72
+267-->[com.google.android.gms:play-services-measurement:21.0.0] /Users/diegoveneroso/.gradle/caches/transforms-2/files-2.1/3b1d1e5571522f703c316a9309413648/jetified-play-services-measurement-21.0.0/AndroidManifest.xml:39:9-43:72
 268            android:name="com.google.android.gms.measurement.AppMeasurementJobService"
-268-->[com.google.android.gms:play-services-measurement:21.0.0] /Users/diego/.gradle/caches/transforms-2/files-2.1/3b1d1e5571522f703c316a9309413648/jetified-play-services-measurement-21.0.0/AndroidManifest.xml:40:13-87
+268-->[com.google.android.gms:play-services-measurement:21.0.0] /Users/diegoveneroso/.gradle/caches/transforms-2/files-2.1/3b1d1e5571522f703c316a9309413648/jetified-play-services-measurement-21.0.0/AndroidManifest.xml:40:13-87
 269            android:enabled="true"
-269-->[com.google.android.gms:play-services-measurement:21.0.0] /Users/diego/.gradle/caches/transforms-2/files-2.1/3b1d1e5571522f703c316a9309413648/jetified-play-services-measurement-21.0.0/AndroidManifest.xml:41:13-35
+269-->[com.google.android.gms:play-services-measurement:21.0.0] /Users/diegoveneroso/.gradle/caches/transforms-2/files-2.1/3b1d1e5571522f703c316a9309413648/jetified-play-services-measurement-21.0.0/AndroidManifest.xml:41:13-35
 270            android:exported="false"
-270-->[com.google.android.gms:play-services-measurement:21.0.0] /Users/diego/.gradle/caches/transforms-2/files-2.1/3b1d1e5571522f703c316a9309413648/jetified-play-services-measurement-21.0.0/AndroidManifest.xml:42:13-37
+270-->[com.google.android.gms:play-services-measurement:21.0.0] /Users/diegoveneroso/.gradle/caches/transforms-2/files-2.1/3b1d1e5571522f703c316a9309413648/jetified-play-services-measurement-21.0.0/AndroidManifest.xml:42:13-37
 271            android:permission="android.permission.BIND_JOB_SERVICE" />
-271-->[com.google.android.gms:play-services-measurement:21.0.0] /Users/diego/.gradle/caches/transforms-2/files-2.1/3b1d1e5571522f703c316a9309413648/jetified-play-services-measurement-21.0.0/AndroidManifest.xml:43:13-69
+271-->[com.google.android.gms:play-services-measurement:21.0.0] /Users/diegoveneroso/.gradle/caches/transforms-2/files-2.1/3b1d1e5571522f703c316a9309413648/jetified-play-services-measurement-21.0.0/AndroidManifest.xml:43:13-69
 272
 273        <activity
-273-->[com.google.android.gms:play-services-base:18.0.1] /Users/diego/.gradle/caches/transforms-2/files-2.1/1c0769389455a4c14b7a50bc2530cb4a/jetified-play-services-base-18.0.1/AndroidManifest.xml:20:9-22:45
+273-->[com.google.android.gms:play-services-base:18.0.1] /Users/diegoveneroso/.gradle/caches/transforms-2/files-2.1/1c0769389455a4c14b7a50bc2530cb4a/jetified-play-services-base-18.0.1/AndroidManifest.xml:20:9-22:45
 274            android:name="com.google.android.gms.common.api.GoogleApiActivity"
-274-->[com.google.android.gms:play-services-base:18.0.1] /Users/diego/.gradle/caches/transforms-2/files-2.1/1c0769389455a4c14b7a50bc2530cb4a/jetified-play-services-base-18.0.1/AndroidManifest.xml:20:19-85
+274-->[com.google.android.gms:play-services-base:18.0.1] /Users/diegoveneroso/.gradle/caches/transforms-2/files-2.1/1c0769389455a4c14b7a50bc2530cb4a/jetified-play-services-base-18.0.1/AndroidManifest.xml:20:19-85
 275            android:exported="false"
-275-->[com.google.android.gms:play-services-base:18.0.1] /Users/diego/.gradle/caches/transforms-2/files-2.1/1c0769389455a4c14b7a50bc2530cb4a/jetified-play-services-base-18.0.1/AndroidManifest.xml:22:19-43
+275-->[com.google.android.gms:play-services-base:18.0.1] /Users/diegoveneroso/.gradle/caches/transforms-2/files-2.1/1c0769389455a4c14b7a50bc2530cb4a/jetified-play-services-base-18.0.1/AndroidManifest.xml:22:19-43
 276            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
-276-->[com.google.android.gms:play-services-base:18.0.1] /Users/diego/.gradle/caches/transforms-2/files-2.1/1c0769389455a4c14b7a50bc2530cb4a/jetified-play-services-base-18.0.1/AndroidManifest.xml:21:19-78
+276-->[com.google.android.gms:play-services-base:18.0.1] /Users/diegoveneroso/.gradle/caches/transforms-2/files-2.1/1c0769389455a4c14b7a50bc2530cb4a/jetified-play-services-base-18.0.1/AndroidManifest.xml:21:19-78
 277
 278        <meta-data
-278-->[com.google.android.gms:play-services-basement:18.0.0] /Users/diego/.gradle/caches/transforms-2/files-2.1/4a1e8147c3db656939cfc830651ce63e/jetified-play-services-basement-18.0.0/AndroidManifest.xml:21:9-23:69
+278-->[com.google.android.gms:play-services-basement:18.0.0] /Users/diegoveneroso/.gradle/caches/transforms-2/files-2.1/4a1e8147c3db656939cfc830651ce63e/jetified-play-services-basement-18.0.0/AndroidManifest.xml:21:9-23:69
 279            android:name="com.google.android.gms.version"
-279-->[com.google.android.gms:play-services-basement:18.0.0] /Users/diego/.gradle/caches/transforms-2/files-2.1/4a1e8147c3db656939cfc830651ce63e/jetified-play-services-basement-18.0.0/AndroidManifest.xml:22:13-58
+279-->[com.google.android.gms:play-services-basement:18.0.0] /Users/diegoveneroso/.gradle/caches/transforms-2/files-2.1/4a1e8147c3db656939cfc830651ce63e/jetified-play-services-basement-18.0.0/AndroidManifest.xml:22:13-58
 280            android:value="@integer/google_play_services_version" />
-280-->[com.google.android.gms:play-services-basement:18.0.0] /Users/diego/.gradle/caches/transforms-2/files-2.1/4a1e8147c3db656939cfc830651ce63e/jetified-play-services-basement-18.0.0/AndroidManifest.xml:23:13-66
+280-->[com.google.android.gms:play-services-basement:18.0.0] /Users/diegoveneroso/.gradle/caches/transforms-2/files-2.1/4a1e8147c3db656939cfc830651ce63e/jetified-play-services-basement-18.0.0/AndroidManifest.xml:23:13-66
 281
 282        <provider
-282-->[androidx.lifecycle:lifecycle-process:2.2.0] /Users/diego/.gradle/caches/transforms-2/files-2.1/c8266272493d97b2aa6580f532a7f85b/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:25:9-29:43
+282-->[androidx.lifecycle:lifecycle-process:2.2.0] /Users/diegoveneroso/.gradle/caches/transforms-2/files-2.1/c8266272493d97b2aa6580f532a7f85b/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:25:9-29:43
 283            android:name="androidx.lifecycle.ProcessLifecycleOwnerInitializer"
-283-->[androidx.lifecycle:lifecycle-process:2.2.0] /Users/diego/.gradle/caches/transforms-2/files-2.1/c8266272493d97b2aa6580f532a7f85b/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:26:13-79
-284            android:authorities="ga.consuni.consuni_mobile.lifecycle-process"
-284-->[androidx.lifecycle:lifecycle-process:2.2.0] /Users/diego/.gradle/caches/transforms-2/files-2.1/c8266272493d97b2aa6580f532a7f85b/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:27:13-69
+283-->[androidx.lifecycle:lifecycle-process:2.2.0] /Users/diegoveneroso/.gradle/caches/transforms-2/files-2.1/c8266272493d97b2aa6580f532a7f85b/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:26:13-79
+284            android:authorities="ga.consuni.consuni.lifecycle-process"
+284-->[androidx.lifecycle:lifecycle-process:2.2.0] /Users/diegoveneroso/.gradle/caches/transforms-2/files-2.1/c8266272493d97b2aa6580f532a7f85b/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:27:13-69
 285            android:exported="false"
-285-->[androidx.lifecycle:lifecycle-process:2.2.0] /Users/diego/.gradle/caches/transforms-2/files-2.1/c8266272493d97b2aa6580f532a7f85b/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:28:13-37
+285-->[androidx.lifecycle:lifecycle-process:2.2.0] /Users/diegoveneroso/.gradle/caches/transforms-2/files-2.1/c8266272493d97b2aa6580f532a7f85b/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:28:13-37
 286            android:multiprocess="true" />
-286-->[androidx.lifecycle:lifecycle-process:2.2.0] /Users/diego/.gradle/caches/transforms-2/files-2.1/c8266272493d97b2aa6580f532a7f85b/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:29:13-40
+286-->[androidx.lifecycle:lifecycle-process:2.2.0] /Users/diegoveneroso/.gradle/caches/transforms-2/files-2.1/c8266272493d97b2aa6580f532a7f85b/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:29:13-40
 287    </application>
 288
 289</manifest>

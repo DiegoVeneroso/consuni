@@ -1,14 +1,13 @@
-import 'package:consuni_mobile/app/modules/auth/code_recovery/code_recovery_bindings.dart';
-import 'package:consuni_mobile/app/modules/auth/code_recovery/code_recovery_page.dart';
-import 'package:consuni_mobile/app/modules/auth/login/login_bindings.dart';
-import 'package:consuni_mobile/app/modules/auth/login/login_page.dart';
-import 'package:consuni_mobile/app/modules/auth/password_recovery/password_recovery_bindings.dart';
-import 'package:consuni_mobile/app/modules/auth/password_recovery/password_recovery_page.dart';
-import 'package:consuni_mobile/app/modules/auth/password_renew/password_renew_bindings.dart';
-import 'package:consuni_mobile/app/modules/auth/password_renew/password_renew_controller.dart';
-import 'package:consuni_mobile/app/modules/auth/password_renew/password_renew_page.dart';
-import 'package:consuni_mobile/app/modules/auth/register/register_bindings.dart';
-import 'package:consuni_mobile/app/modules/auth/register/register_page.dart';
+import 'package:consuni/app/modules/auth/code_recovery/code_recovery_bindings.dart';
+import 'package:consuni/app/modules/auth/code_recovery/code_recovery_page.dart';
+import 'package:consuni/app/modules/auth/login/login_bindings.dart';
+import 'package:consuni/app/modules/auth/login/login_page.dart';
+import 'package:consuni/app/modules/auth/password_recovery/password_recovery_bindings.dart';
+import 'package:consuni/app/modules/auth/password_recovery/password_recovery_page.dart';
+import 'package:consuni/app/modules/auth/password_renew/password_renew_bindings.dart';
+import 'package:consuni/app/modules/auth/password_renew/password_renew_page.dart';
+import 'package:consuni/app/modules/auth/register/register_bindings.dart';
+import 'package:consuni/app/modules/auth/register/register_page.dart';
 import 'package:get/route_manager.dart';
 
 class AuthRouters {

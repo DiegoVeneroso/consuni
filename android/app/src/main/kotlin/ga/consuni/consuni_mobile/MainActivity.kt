@@ -1,4 +1,4 @@
-package ga.consuni.consuni_mobile
+package ga.consuni.consuni
 
 import io.flutter.embedding.android.FlutterActivity
 

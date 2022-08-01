@@ -5,18 +5,18 @@
     "version": "0.2.0",
     "configurations": [
         {
-            "name": "consuni_mobile",
+            "name": "consuni",
             "request": "launch",
             "type": "dart"
         },
         {
-            "name": "consuni_mobile (profile mode)",
+            "name": "consuni (profile mode)",
             "request": "launch",
             "type": "dart",
             "flutterMode": "profile"
         },
         {
-            "name": "consuni_mobile (release mode)",
+            "name": "consuni (release mode)",
             "request": "launch",
             "type": "dart",
             "flutterMode": "release"

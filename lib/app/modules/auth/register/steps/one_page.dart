@@ -1,7 +1,7 @@
-import 'package:consuni_mobile/app/core/ui/widgets/custom_appbar.dart';
-import 'package:consuni_mobile/app/core/ui/widgets/custom_buttom.dart';
-import 'package:consuni_mobile/app/core/ui/widgets/custom_textformfield.dart';
-import 'package:consuni_mobile/app/models/view_models/register_view_model.dart';
+import 'package:consuni/app/core/ui/widgets/custom_appbar.dart';
+import 'package:consuni/app/core/ui/widgets/custom_buttom.dart';
+import 'package:consuni/app/core/ui/widgets/custom_textformfield.dart';
+import 'package:consuni/app/models/view_models/register_view_model.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:validatorless/validatorless.dart';
@@ -81,6 +81,7 @@ class _OnePageState extends State<OnePage> {
                       } else if (!RegExp(r"\s").hasMatch(value.toString())) {
                         return 'Digite nome e sobrenome';
                       }
+                      return null;
                     },
                   ),
                   const SizedBox(

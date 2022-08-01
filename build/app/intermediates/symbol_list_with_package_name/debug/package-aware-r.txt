@@ -1,4 +1,4 @@
-ga.consuni.consuni_mobile
+ga.consuni.consuni
 attr activityAction
 attr activityName
 attr alpha

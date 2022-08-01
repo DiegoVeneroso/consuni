@@ -1,5 +1,5 @@
-import 'package:consuni_mobile/app/modules/home/home_controller.dart';
-import 'package:consuni_mobile/app/repositories/item/item_repository_impl.dart';
+import 'package:consuni/app/modules/home/home_controller.dart';
+import 'package:consuni/app/repositories/item/item_repository_impl.dart';
 import 'package:get/get.dart';
 
 class HomeBindings implements Bindings {

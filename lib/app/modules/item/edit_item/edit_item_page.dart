@@ -1,13 +1,13 @@
 import 'dart:convert';
 import 'dart:io' as Io;
 import 'dart:io';
-import 'package:consuni_mobile/app/core/ui/app_state.dart';
-import 'package:consuni_mobile/app/core/ui/widgets/custom_appbar.dart';
-import 'package:consuni_mobile/app/core/ui/widgets/custom_buttom.dart';
-import 'package:consuni_mobile/app/core/ui/widgets/custom_textformfield.dart';
-import 'package:consuni_mobile/app/models/item_model.dart';
-import 'package:consuni_mobile/app/modules/item/edit_item/edit_item_controller.dart';
-import 'package:consuni_mobile/app/modules/home/home_controller.dart';
+import 'package:consuni/app/core/ui/app_state.dart';
+import 'package:consuni/app/core/ui/widgets/custom_appbar.dart';
+import 'package:consuni/app/core/ui/widgets/custom_buttom.dart';
+import 'package:consuni/app/core/ui/widgets/custom_textformfield.dart';
+import 'package:consuni/app/models/item_model.dart';
+import 'package:consuni/app/modules/item/edit_item/edit_item_controller.dart';
+import 'package:consuni/app/modules/home/home_controller.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:image_picker/image_picker.dart';
@@ -91,8 +91,7 @@ class _EditItemPageState extends AppState<EditItemPage, EditItemController> {
 
                               image: controller.isItemPicPathSet.value == true
                                   ? FileImage(
-                                          File(controller.itemPicPath.value))
-                                      as ImageProvider
+                                      File(controller.itemPicPath.value))
                                   : homeController
                                       .decodeImage(controller.item.image)
                                       .image,

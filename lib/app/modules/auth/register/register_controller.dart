@@ -1,11 +1,11 @@
 import 'dart:developer';
 
-import 'package:consuni_mobile/app/core/mixins/loader_mixin.dart';
-import 'package:consuni_mobile/app/core/mixins/messages_mixin.dart';
-import 'package:consuni_mobile/app/core/rest_client/rest_client.dart';
-import 'package:consuni_mobile/app/models/view_models/register_view_model.dart';
-import 'package:consuni_mobile/app/modules/auth/login/login_controller.dart';
-import 'package:consuni_mobile/app/repositories/auth/auth_repository.dart';
+import 'package:consuni/app/core/mixins/loader_mixin.dart';
+import 'package:consuni/app/core/mixins/messages_mixin.dart';
+import 'package:consuni/app/core/rest_client/rest_client.dart';
+import 'package:consuni/app/models/view_models/register_view_model.dart';
+import 'package:consuni/app/modules/auth/login/login_controller.dart';
+import 'package:consuni/app/repositories/auth/auth_repository.dart';
 import 'package:get/get.dart';
 
 class RegisterController extends GetxController
@@ -89,6 +89,7 @@ class RegisterController extends GetxController
     } catch (e, s) {
       log('Erro ao buscar instituicao', error: e, stackTrace: s);
     }
+    return null;
   }
 
   Future<List?> getClasse() async {
@@ -99,5 +100,6 @@ class RegisterController extends GetxController
     } catch (e, s) {
       log('Erro ao buscar classe', error: e, stackTrace: s);
     }
+    return null;
   }
 }

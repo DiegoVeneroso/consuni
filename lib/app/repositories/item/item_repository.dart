@@ -1,5 +1,5 @@
-import 'package:consuni_mobile/app/models/item_model.dart';
-import 'package:consuni_mobile/app/models/userDrawer_model.dart';
+import 'package:consuni/app/models/item_model.dart';
+import 'package:consuni/app/models/userDrawer_model.dart';
 
 abstract class ItemRepository {
   Future<List<ItemModel>> findAll(String text);

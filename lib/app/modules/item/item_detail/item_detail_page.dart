@@ -1,6 +1,6 @@
 import 'package:awesome_icons/awesome_icons.dart';
-import 'package:consuni_mobile/app/core/ui/widgets/custom_appbar.dart';
-import 'package:consuni_mobile/app/modules/home/home_controller.dart';
+import 'package:consuni/app/core/ui/widgets/custom_appbar.dart';
+import 'package:consuni/app/modules/home/home_controller.dart';
 import 'package:get/get.dart';
 import 'package:flutter/material.dart';
 import './item_detail_controller.dart';

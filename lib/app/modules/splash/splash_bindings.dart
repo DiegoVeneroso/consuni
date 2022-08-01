@@ -1,4 +1,4 @@
-import 'package:consuni_mobile/app/modules/splash/splash_controller.dart';
+import 'package:consuni/app/modules/splash/splash_controller.dart';
 import 'package:get/get.dart';
 
 class SplashBindings implements Bindings {

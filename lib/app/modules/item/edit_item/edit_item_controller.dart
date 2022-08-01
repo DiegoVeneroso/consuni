@@ -1,11 +1,11 @@
 import 'dart:developer';
 
-import 'package:consuni_mobile/app/core/mixins/loader_mixin.dart';
-import 'package:consuni_mobile/app/core/mixins/messages_mixin.dart';
-import 'package:consuni_mobile/app/core/rest_client/rest_client.dart';
-import 'package:consuni_mobile/app/models/item_model.dart';
-import 'package:consuni_mobile/app/modules/home/home_controller.dart';
-import 'package:consuni_mobile/app/repositories/item/item_repository_impl.dart';
+import 'package:consuni/app/core/mixins/loader_mixin.dart';
+import 'package:consuni/app/core/mixins/messages_mixin.dart';
+import 'package:consuni/app/core/rest_client/rest_client.dart';
+import 'package:consuni/app/models/item_model.dart';
+import 'package:consuni/app/modules/home/home_controller.dart';
+import 'package:consuni/app/repositories/item/item_repository_impl.dart';
 import 'package:get/get.dart';
 
 class EditItemController extends GetxController

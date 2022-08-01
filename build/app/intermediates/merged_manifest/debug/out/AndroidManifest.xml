@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="ga.consuni.consuni_mobile"
+    package="ga.consuni.consuni"
     android:versionCode="1"
     android:versionName="1.0.0" >
 
@@ -60,9 +60,9 @@
         android:appComponentFactory="androidx.core.app.CoreComponentFactory"
         android:debuggable="true"
         android:icon="@mipmap/ic_launcher"
-        android:label="consuni_mobile" >
+        android:label="consuni" >
         <activity
-            android:name="ga.consuni.consuni_mobile.MainActivity"
+            android:name="ga.consuni.consuni.MainActivity"
             android:configChanges="orientation|keyboardHidden|keyboard|screenSize|smallestScreenSize|locale|layoutDirection|fontScale|screenLayout|density|uiMode"
             android:exported="true"
             android:hardwareAccelerated="true"
@@ -141,12 +141,12 @@
 
         <provider
             android:name="io.flutter.plugins.firebase.messaging.FlutterFirebaseMessagingInitProvider"
-            android:authorities="ga.consuni.consuni_mobile.flutterfirebasemessaginginitprovider"
+            android:authorities="ga.consuni.consuni.flutterfirebasemessaginginitprovider"
             android:exported="false"
             android:initOrder="99" />
         <provider
             android:name="io.flutter.plugins.imagepicker.ImagePickerFileProvider"
-            android:authorities="ga.consuni.consuni_mobile.flutter.image_provider"
+            android:authorities="ga.consuni.consuni.flutter.image_provider"
             android:exported="false"
             android:grantUriPermissions="true" >
             <meta-data
@@ -180,7 +180,7 @@
 
         <provider
             android:name="com.crazecoder.openfile.FileProvider"
-            android:authorities="ga.consuni.consuni_mobile.fileProvider.com.crazecoder.openfile"
+            android:authorities="ga.consuni.consuni.fileProvider.com.crazecoder.openfile"
             android:exported="false"
             android:grantUriPermissions="true" >
             <meta-data
@@ -249,7 +249,7 @@
 
         <provider
             android:name="com.google.firebase.provider.FirebaseInitProvider"
-            android:authorities="ga.consuni.consuni_mobile.firebaseinitprovider"
+            android:authorities="ga.consuni.consuni.firebaseinitprovider"
             android:directBootAware="true"
             android:exported="false"
             android:initOrder="100" />
@@ -281,7 +281,7 @@
 
         <provider
             android:name="androidx.lifecycle.ProcessLifecycleOwnerInitializer"
-            android:authorities="ga.consuni.consuni_mobile.lifecycle-process"
+            android:authorities="ga.consuni.consuni.lifecycle-process"
             android:exported="false"
             android:multiprocess="true" />
     </application>

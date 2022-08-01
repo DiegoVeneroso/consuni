@@ -1,4 +1,4 @@
-import 'package:consuni_mobile/app/core/rest_client/rest_client.dart';
+import 'package:consuni/app/core/rest_client/rest_client.dart';
 import 'package:get/get.dart';
 
 class ApplicationBindings implements Bindings {

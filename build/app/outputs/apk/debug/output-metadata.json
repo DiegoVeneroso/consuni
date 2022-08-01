@@ -4,7 +4,7 @@
     "type": "APK",
     "kind": "Directory"
   },
-  "applicationId": "ga.consuni.consuni_mobile",
+  "applicationId": "ga.consuni.consuni",
   "variantName": "processDebugResources",
   "elements": [
     {

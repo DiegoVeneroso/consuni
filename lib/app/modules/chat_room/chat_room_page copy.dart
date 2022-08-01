@@ -1,5 +1,5 @@
-import 'package:consuni_mobile/app/models/message.dart';
-import 'package:consuni_mobile/app/modules/chat_room/chat_room_controller.dart';
+import 'package:consuni/app/models/message.dart';
+import 'package:consuni/app/modules/chat_room/chat_room_controller.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:intl/intl.dart';

@@ -1,5 +1,5 @@
-import 'package:consuni_mobile/app/modules/chat/chat_bindings.dart';
-import 'package:consuni_mobile/app/modules/chat/chat_page.dart';
+import 'package:consuni/app/modules/chat/chat_bindings.dart';
+import 'package:consuni/app/modules/chat/chat_page.dart';
 import 'package:get/get.dart';
 
 class ChatRouters {
